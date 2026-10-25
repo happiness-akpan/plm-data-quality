@@ -124,7 +124,7 @@ def generate(n_parts: int, seed: int) -> tuple[pd.DataFrame, pd.DataFrame, pd.Da
     rng = random.Random(seed)
     manifest: dict[str, list | int] = {}
 
-    today = date.today()
+    today = date(2026, 1, 1)   # fixed date so the same seed always gives identical data
     start = today - timedelta(days=365 * 6)
 
     parts: list[dict] = []
@@ -189,12 +189,13 @@ def generate(n_parts: int, seed: int) -> tuple[pd.DataFrame, pd.DataFrame, pd.Da
 
     # --- BOM ----------------------------------------------------------------
     part_ids = [p["part_id"] for p in parts]
+    active_ids = [p["part_id"] for p in parts if p["status"] != "Obsolete"]
     assemblies = rng.sample(part_ids, int(len(part_ids) * 0.18))
     bom: list[dict] = []
     seen_edges: set[tuple[str, str]] = set()
 
     for parent in assemblies:
-        for fn, child in enumerate(rng.sample(part_ids, rng.randint(2, 9)), start=1):
+        for fn, child in enumerate(rng.sample(active_ids, rng.randint(2, 9)), start=1):
             if child == parent or (parent, child) in seen_edges:
                 continue
             seen_edges.add((parent, child))
@@ -232,7 +233,7 @@ def generate(n_parts: int, seed: int) -> tuple[pd.DataFrame, pd.DataFrame, pd.Da
     # --- DEFECT 6: circular references ---------------------------------------
     cycles = []
     for _ in range(6):
-        a, b = rng.sample(part_ids, 2)
+        a, b = rng.sample(active_ids, 2)
         bom.append({"bom_line_id": f"L{len(bom) + 1:07d}", "parent_part_id": a,
                     "child_part_id": b, "quantity": 1, "find_number": 500,
                     "effectivity_date": today.isoformat()})
