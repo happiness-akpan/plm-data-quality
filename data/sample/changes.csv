@@ -1,0 +1,1751 @@
+change_id,part_id,change_type,requested_by,status,raised_date,closed_date
+CH000001,P0001419,ECR,Aftermarket,Approved,2026-06-07,
+CH000002,P0003027,ECN,Aftermarket,In Review,2025-09-13,
+CH000003,P0004760,Deviation,Tooling,Implemented,2024-10-31,2024-12-27
+CH000004,P0001523,ECN,Structures,Approved,2026-05-03,
+CH000005,P0004797,ECR,Aftermarket,Approved,2023-02-07,
+CH000006,P0001168,Concession,Supplier Managed,Approved,2023-01-26,
+CH000007,P0002516,Deviation,Structures,Implemented,2022-07-28,2022-09-25
+CH000008,P0002058,ECR,Mechanical Design,Draft,2023-03-06,
+CH000009,P0002764,Concession,Mechanical Design,Approved,2024-12-21,
+CH000010,P0003715,Concession,Supplier Managed,Rejected,2021-08-09,2021-10-08
+CH000011,P0004090,Deviation,Tooling,Rejected,2022-09-18,2022-12-29
+CH000012,P0000194,Concession,Systems,Implemented,2025-09-07,2026-01-25
+CH000013,P0003763,ECR,Mechanical Design,Approved,2024-04-16,
+CH000014,P0003753,ECR,Propulsion,Draft,2026-01-09,
+CH000015,P0000307,ECN,Propulsion,Approved,2024-10-05,
+CH000016,P0001094,ECN,Mechanical Design,Implemented,2024-03-21,2024-04-27
+CH000017,P0002403,ECN,Mechanical Design,Implemented,2023-10-01,2024-03-26
+CH000018,P0003654,Concession,Structures,Draft,2022-07-09,
+CH000019,P0003234,Concession,Structures,Rejected,2026-04-14,2026-08-05
+CH000020,P0001693,Deviation,Systems,Draft,2026-09-03,
+CH000021,P0003798,Concession,Supplier Managed,Approved,2024-02-21,
+CH000022,P0001900,Concession,Tooling,In Review,2025-01-30,
+CH000023,P0002030,Concession,Aftermarket,Implemented,2025-02-18,2025-08-12
+CH000024,P0001490,ECR,Supplier Managed,Draft,2025-08-11,
+CH000025,P0005097,Concession,Propulsion,Approved,2023-09-29,
+CH000026,P0002070,ECR,Structures,Implemented,2025-06-01,2025-11-15
+CH000027,P0003244,ECN,Structures,Draft,2024-09-22,
+CH000028,P0001019,ECR,Structures,Rejected,2021-10-09,2022-03-31
+CH000029,P0001454,ECN,Propulsion,Implemented,2025-01-01,2025-04-01
+CH000030,P0003320,ECN,Structures,In Review,2022-03-19,
+CH000031,P0003551,Concession,Propulsion,Approved,2020-12-09,
+CH000032,P0004556,ECN,Aftermarket,In Review,2023-04-10,
+CH000033,P0001237,Concession,Aftermarket,Draft,2024-08-17,
+CH000034,P0003157,ECN,Supplier Managed,In Review,2025-02-24,
+CH000035,P0000736,ECN,Structures,Approved,2022-01-12,
+CH000036,P0004962,Concession,Aftermarket,In Review,2021-03-14,
+CH000037,P0002456,ECR,Systems,Draft,2024-05-01,
+CH000038,P0000607,ECR,Propulsion,Draft,2020-12-29,
+CH000039,P0003423,Deviation,Systems,Implemented,2026-05-10,2026-07-10
+CH000040,P0002541,Concession,Propulsion,Implemented,2023-06-17,2023-12-01
+CH000041,P0002739,Deviation,Aftermarket,Draft,2022-03-09,
+CH000042,P0003914,ECN,Aftermarket,Rejected,2023-12-29,2024-06-19
+CH000043,P0000027,ECR,Mechanical Design,Draft,2024-03-21,
+CH000044,P0001157,ECR,Systems,Approved,2021-07-07,
+CH000045,P0003921,Concession,Tooling,Draft,2023-10-14,
+CH000046,P0003099,ECR,Aftermarket,Implemented,2025-06-11,2025-10-25
+CH000047,P0002373,Deviation,Systems,Implemented,2026-10-12,2027-01-20
+CH000048,P0003734,ECN,Systems,Rejected,2023-07-20,2023-09-12
+CH000049,P0003596,Deviation,Propulsion,Draft,2022-03-13,
+CH000050,P0001582,ECR,Mechanical Design,Draft,2025-04-21,
+CH000051,P0001562,Deviation,Systems,Implemented,2026-01-31,2026-01-18
+CH000052,P0002161,ECR,Structures,Rejected,2023-06-18,2023-10-03
+CH000053,P0001350,Concession,Supplier Managed,Draft,2024-04-12,
+CH000054,P0004391,ECR,Systems,Implemented,2024-12-16,2025-05-13
+CH000055,P0000468,ECN,Structures,In Review,2025-12-13,
+CH000056,P0000589,ECN,Mechanical Design,Approved,2022-08-28,
+CH000057,P0002791,Deviation,Tooling,Implemented,2026-10-07,2027-01-09
+CH000058,P0000086,Deviation,Propulsion,Implemented,2025-04-22,2025-05-09
+CH000059,P0000355,ECR,Systems,Rejected,2024-10-14,2025-02-11
+CH000060,P0004603,Concession,Mechanical Design,Draft,2026-08-21,
+CH000061,P0000818,ECR,Propulsion,Approved,2022-12-19,
+CH000062,P0000606,ECR,Mechanical Design,Rejected,2023-01-07,2023-04-27
+CH000063,P0000440,ECR,Structures,Rejected,2020-12-01,2021-01-24
+CH000064,P0005200,ECN,Supplier Managed,Approved,2022-12-29,
+CH000065,P0000372,Deviation,Propulsion,Rejected,2025-11-07,2025-11-15
+CH000066,P0003342,ECN,Supplier Managed,Rejected,2021-03-28,2021-08-14
+CH000067,P0004925,Concession,Systems,Draft,2024-01-20,
+CH000068,P0004906,Deviation,Structures,Draft,2024-04-25,
+CH000069,P0003188,ECR,Tooling,Approved,2025-09-26,
+CH000070,P0001363,ECN,Systems,Implemented,2024-11-07,2025-04-07
+CH000071,P0004681,Deviation,Propulsion,Rejected,2021-07-11,2021-09-02
+CH000072,P0001609,ECN,Systems,Rejected,2025-06-23,2025-09-22
+CH000073,P0002191,ECR,Aftermarket,Implemented,2024-06-27,2024-08-01
+CH000074,P0003817,Concession,Systems,Draft,2024-09-15,
+CH000075,P0004772,ECN,Propulsion,Rejected,2021-12-06,2021-10-08
+CH000076,P0004582,Deviation,Propulsion,Implemented,2026-08-19,2027-01-27
+CH000077,P0003149,Concession,Tooling,Implemented,2026-07-26,2026-12-21
+CH000078,P0004888,Deviation,Propulsion,Implemented,2023-02-01,2023-07-30
+CH000079,P0004242,Deviation,Tooling,Rejected,2026-10-24,2026-11-04
+CH000080,P0001172,ECR,Propulsion,Implemented,2025-05-24,2025-08-24
+CH000081,P0004307,Concession,Aftermarket,Approved,2023-04-08,
+CH000082,P0004271,ECR,Mechanical Design,Approved,2025-01-23,
+CH000083,P0000953,ECR,Aftermarket,Approved,2021-05-24,
+CH000084,P0003074,Deviation,Mechanical Design,In Review,2024-01-04,
+CH000085,P0001200,ECR,Structures,In Review,2020-11-14,
+CH000086,P0002639,Deviation,Tooling,In Review,2026-10-24,
+CH000087,P0000176,ECN,Structures,Rejected,2026-02-28,2026-07-14
+CH000088,P0003667,ECN,Tooling,Implemented,2022-04-28,2022-06-14
+CH000089,P0000133,Concession,Tooling,Implemented,2022-11-03,2023-02-15
+CH000090,P0003260,ECN,Structures,Draft,2025-12-06,
+CH000091,P0003862,ECN,Supplier Managed,Rejected,2020-11-13,2020-12-06
+CH000092,P0000772,ECR,Aftermarket,Draft,2025-05-05,
+CH000093,P0003083,ECN,Tooling,Implemented,2024-06-21,2024-07-09
+CH000094,P0001135,ECN,Propulsion,In Review,2022-11-05,
+CH000095,P0003275,Deviation,Tooling,In Review,2026-04-26,
+CH000096,P0000672,Concession,Systems,Draft,2023-09-07,
+CH000097,P0000736,ECN,Mechanical Design,Draft,2022-02-26,
+CH000098,P0001457,ECR,Propulsion,Implemented,2022-05-29,2022-07-14
+CH000099,P0004002,Deviation,Tooling,Draft,2023-07-14,
+CH000100,P0001825,ECN,Tooling,Rejected,2021-11-21,2022-04-25
+CH000101,P0001835,Deviation,Supplier Managed,In Review,2025-11-13,
+CH000102,P0004416,Concession,Systems,Rejected,2020-12-29,2021-03-27
+CH000103,P0003577,ECN,Systems,Approved,2024-05-29,
+CH000104,P0001140,Deviation,Systems,Implemented,2022-05-19,2022-09-08
+CH000105,P0004841,ECR,Supplier Managed,Implemented,2025-07-31,2025-09-29
+CH000106,P0001079,Concession,Propulsion,Approved,2025-11-05,
+CH000107,P0004111,ECR,Systems,In Review,2023-02-07,
+CH000108,P0000077,ECN,Supplier Managed,Rejected,2022-06-24,2022-07-03
+CH000109,P0005181,Concession,Mechanical Design,Implemented,2023-04-25,2023-05-12
+CH000110,P0002342,ECR,Propulsion,Draft,2023-01-04,
+CH000111,P0003192,ECR,Systems,In Review,2023-07-27,
+CH000112,P0001654,ECR,Aftermarket,Rejected,2023-06-12,2023-08-09
+CH000113,P0005175,Deviation,Tooling,Approved,2023-09-13,
+CH000114,P0000666,Deviation,Systems,Approved,2025-10-09,
+CH000115,P0002797,Concession,Systems,Rejected,2023-07-10,2024-01-03
+CH000116,P0003134,Concession,Tooling,Draft,2024-09-20,
+CH000117,P0001161,ECN,Supplier Managed,In Review,2021-09-01,
+CH000118,P0004747,ECR,Systems,Implemented,2023-04-15,2023-04-22
+CH000119,P0002532,Concession,Structures,In Review,2021-12-28,
+CH000120,P0004945,ECR,Tooling,In Review,2024-02-02,
+CH000121,P0001859,ECN,Aftermarket,Approved,2021-10-03,
+CH000122,P0001549,ECN,Supplier Managed,Rejected,2024-07-30,2024-09-28
+CH000123,P0000321,ECR,Mechanical Design,Approved,2025-07-27,
+CH000124,P0004140,Deviation,Tooling,Rejected,2022-10-10,2022-10-31
+CH000125,P0003175,Deviation,Structures,Rejected,2026-10-19,2026-12-17
+CH000126,P0000428,ECR,Propulsion,In Review,2021-07-08,
+CH000127,P0000557,ECN,Structures,Rejected,2026-01-15,2026-06-18
+CH000128,P0003127,ECR,Propulsion,Rejected,2025-05-25,2025-06-07
+CH000129,P0001186,ECR,Tooling,Implemented,2024-09-15,2024-10-04
+CH000130,P0003867,ECN,Propulsion,Approved,2026-05-07,
+CH000131,P0001736,Deviation,Supplier Managed,In Review,2026-04-04,
+CH000132,P0004477,Concession,Propulsion,Implemented,2021-04-02,2021-08-21
+CH000133,P0001626,Concession,Propulsion,Implemented,2022-06-28,2022-09-25
+CH000134,P0003643,ECN,Supplier Managed,Draft,2026-04-09,
+CH000135,P0000838,ECR,Tooling,In Review,2024-03-05,
+CH000136,P0001674,ECR,Propulsion,Rejected,2026-07-17,2027-01-09
+CH000137,P0001634,Concession,Aftermarket,In Review,2026-06-25,
+CH000138,P0002470,ECN,Tooling,In Review,2024-12-26,
+CH000139,P0003366,Concession,Aftermarket,Approved,2021-02-22,
+CH000140,P0002937,ECN,Propulsion,Implemented,2021-01-28,2021-03-29
+CH000141,P0003183,Deviation,Systems,Approved,2025-11-14,
+CH000142,P0001990,ECR,Supplier Managed,Approved,2020-11-25,
+CH000143,P0000074,ECR,Structures,Implemented,2022-12-31,2023-02-02
+CH000144,P0002723,ECR,Mechanical Design,Draft,2025-09-11,
+CH000145,P0004620,Deviation,Mechanical Design,Draft,2021-01-28,
+CH000146,P0003845,ECN,Propulsion,Rejected,2021-05-04,2021-09-26
+CH000147,P0003684,ECR,Propulsion,Implemented,2023-11-11,2023-10-06
+CH000148,P0001065,ECR,Structures,Approved,2025-12-05,
+CH000149,P0002153,ECR,Structures,Approved,2023-07-25,
+CH000150,P0001925,Concession,Structures,In Review,2026-05-25,
+CH000151,P0003796,Deviation,Systems,Approved,2022-11-23,
+CH000152,P0000786,Deviation,Aftermarket,Rejected,2024-06-19,2024-11-19
+CH000153,P0003511,Deviation,Mechanical Design,Approved,2026-05-02,
+CH000154,P0003469,Deviation,Propulsion,Approved,2026-10-16,
+CH000155,P0003244,ECR,Supplier Managed,Draft,2023-03-10,
+CH000156,P0004593,Deviation,Tooling,In Review,2023-02-07,
+CH000157,P0004572,Deviation,Mechanical Design,Rejected,2026-10-25,2027-02-28
+CH000158,P0003528,ECN,Tooling,In Review,2026-05-10,
+CH000159,P0004253,ECN,Aftermarket,In Review,2024-10-24,
+CH000160,P0001759,ECR,Structures,Rejected,2020-12-07,2021-01-20
+CH000161,P0001246,Deviation,Systems,Draft,2022-12-23,
+CH000162,P0001039,ECR,Structures,Draft,2021-04-06,
+CH000163,P0004484,ECR,Aftermarket,Implemented,2022-08-19,2023-01-15
+CH000164,P0002589,ECN,Structures,Rejected,2026-03-08,2026-04-24
+CH000165,P0000004,Concession,Tooling,Implemented,2025-01-17,2025-07-07
+CH000166,P0000303,Concession,Mechanical Design,Approved,2026-06-22,
+CH000167,P0002042,ECR,Tooling,Draft,2025-02-11,
+CH000168,P0003763,ECR,Propulsion,Draft,2022-07-07,
+CH000169,P0003298,Concession,Structures,Implemented,2022-11-17,2023-03-08
+CH000170,P0001937,ECN,Aftermarket,In Review,2022-05-22,
+CH000171,P0002553,Concession,Mechanical Design,Approved,2024-01-15,
+CH000172,P0002597,Deviation,Aftermarket,Implemented,2021-11-03,2022-03-31
+CH000173,P0000683,Concession,Supplier Managed,Implemented,2024-12-11,2024-12-31
+CH000174,P0005048,Deviation,Tooling,Approved,2020-12-07,
+CH000175,P0002978,ECN,Propulsion,Draft,2024-04-15,
+CH000176,P0002744,ECR,Tooling,Approved,2022-03-08,
+CH000177,P0001878,ECN,Mechanical Design,Draft,2023-04-08,
+CH000178,P0003089,Concession,Supplier Managed,Draft,2026-09-22,
+CH000179,P0004778,ECR,Structures,Approved,2021-04-06,
+CH000180,P0000092,ECR,Propulsion,Draft,2025-03-24,
+CH000181,P0003821,Concession,Aftermarket,Implemented,2022-04-02,2022-04-20
+CH000182,P0003449,Deviation,Tooling,Draft,2024-10-05,
+CH000183,P0000273,ECR,Structures,Implemented,2021-06-15,2021-08-30
+CH000184,P0002844,ECR,Tooling,Approved,2024-01-18,
+CH000185,P0003951,ECN,Aftermarket,Rejected,2022-04-29,2022-06-14
+CH000186,P0004386,ECR,Mechanical Design,In Review,2023-10-02,
+CH000187,P0004894,Concession,Systems,Implemented,2025-07-23,2025-10-06
+CH000188,P0001269,Deviation,Supplier Managed,Rejected,2023-11-05,2024-01-10
+CH000189,P0004518,Deviation,Aftermarket,Implemented,2024-06-04,2024-08-22
+CH000190,P0001689,Concession,Structures,In Review,2022-01-13,
+CH000191,P0002095,Deviation,Supplier Managed,In Review,2023-01-16,
+CH000192,P0004492,ECR,Aftermarket,In Review,2022-12-01,
+CH000193,P0003255,Deviation,Propulsion,Draft,2026-04-19,
+CH000194,P0003543,ECN,Supplier Managed,Approved,2025-09-28,
+CH000195,P0003738,Concession,Aftermarket,Approved,2022-11-09,
+CH000196,P0002702,Concession,Tooling,Implemented,2021-03-06,2021-04-12
+CH000197,P0005182,ECR,Systems,Approved,2025-10-12,
+CH000198,P0002282,Concession,Systems,Approved,2021-11-10,
+CH000199,P0003460,ECN,Mechanical Design,Implemented,2025-07-25,2026-01-11
+CH000200,P0003550,ECN,Aftermarket,Implemented,2023-04-03,2023-04-09
+CH000201,P0002184,Concession,Tooling,Rejected,2024-01-06,2024-03-19
+CH000202,P0002551,Deviation,Structures,Implemented,2022-11-15,2022-12-22
+CH000203,P0004812,Concession,Structures,Implemented,2026-04-10,2026-09-13
+CH000204,P0005115,Deviation,Aftermarket,Draft,2021-07-28,
+CH000205,P0001823,Concession,Supplier Managed,In Review,2023-08-14,
+CH000206,P0003536,ECR,Mechanical Design,Rejected,2023-03-03,2023-07-28
+CH000207,P0004036,ECR,Structures,Approved,2024-04-25,
+CH000208,P0000617,Deviation,Tooling,Implemented,2025-12-16,2026-06-05
+CH000209,P0005102,Deviation,Tooling,Approved,2023-11-19,
+CH000210,P0002158,ECR,Aftermarket,Draft,2025-03-22,
+CH000211,P0000691,Deviation,Mechanical Design,Implemented,2025-11-29,2026-02-19
+CH000212,P0000237,Deviation,Supplier Managed,Implemented,2022-06-01,2022-04-12
+CH000213,P0001108,ECN,Supplier Managed,Approved,2023-08-03,
+CH000214,P0003790,Concession,Aftermarket,In Review,2022-10-09,
+CH000215,P0000484,Deviation,Supplier Managed,In Review,2026-04-07,
+CH000216,P0000977,Concession,Structures,In Review,2025-12-02,
+CH000217,P0001061,Concession,Mechanical Design,In Review,2024-08-07,
+CH000218,P0003840,Deviation,Aftermarket,Rejected,2025-04-29,2025-05-21
+CH000219,P0002828,ECN,Systems,Rejected,2023-04-23,2023-07-06
+CH000220,P0004238,ECR,Structures,Rejected,2025-10-30,2025-11-27
+CH000221,P0004026,ECR,Mechanical Design,Approved,2024-05-04,
+CH000222,P0003971,ECN,Supplier Managed,Rejected,2025-06-25,2025-11-10
+CH000223,P0004609,Concession,Tooling,In Review,2020-11-13,
+CH000224,P0002829,Concession,Tooling,Draft,2022-04-08,
+CH000225,P0003204,Deviation,Mechanical Design,In Review,2023-07-31,
+CH000226,P0004454,ECN,Propulsion,Implemented,2025-11-22,2026-01-01
+CH000227,P0004570,ECN,Supplier Managed,In Review,2021-10-09,
+CH000228,P0001006,ECR,Tooling,In Review,2025-06-02,
+CH000229,P0001413,Deviation,Structures,Rejected,2025-05-15,2025-09-11
+CH000230,P0002068,ECR,Propulsion,Implemented,2021-05-04,2021-09-10
+CH000231,P0000087,Deviation,Systems,In Review,2026-07-06,
+CH000232,P0001106,Concession,Propulsion,Rejected,2022-08-25,2022-09-20
+CH000233,P0003730,Concession,Structures,Draft,2023-04-06,
+CH000234,P0004952,Deviation,Systems,Implemented,2022-09-15,2023-02-02
+CH000235,P0004575,Concession,Systems,Rejected,2026-03-07,2026-08-31
+CH000236,P0003779,Deviation,Aftermarket,In Review,2023-11-05,
+CH000237,P0000205,Concession,Structures,Approved,2021-09-22,
+CH000238,P0004474,ECR,Supplier Managed,Approved,2021-06-17,
+CH000239,P0000881,Concession,Structures,In Review,2024-12-18,
+CH000240,P0003063,Deviation,Aftermarket,Draft,2025-10-07,
+CH000241,P0001565,Deviation,Mechanical Design,Approved,2026-01-17,
+CH000242,P0001475,Deviation,Structures,In Review,2026-03-27,
+CH000243,P0004702,ECN,Systems,Rejected,2025-01-13,2025-05-26
+CH000244,P0003931,ECR,Supplier Managed,Rejected,2022-05-16,2022-06-04
+CH000245,P0001172,ECR,Aftermarket,Rejected,2021-03-19,2021-05-08
+CH000246,P0001758,ECN,Structures,Draft,2023-10-28,
+CH000247,P0005178,ECN,Systems,Implemented,2026-03-15,2026-06-17
+CH000248,P0001897,Deviation,Aftermarket,Implemented,2025-02-14,2025-07-05
+CH000249,P0002244,ECR,Tooling,Approved,2023-12-25,
+CH000250,P0004301,ECR,Systems,Implemented,2025-06-01,2025-11-13
+CH000251,P0001904,ECR,Supplier Managed,In Review,2026-06-19,
+CH000252,P0004094,Concession,Tooling,Rejected,2021-12-05,2022-03-22
+CH000253,P0004269,ECN,Systems,Implemented,2023-12-21,2024-03-13
+CH000254,P0002018,ECN,Aftermarket,Implemented,2024-10-23,2025-01-31
+CH000255,P0003659,ECR,Propulsion,In Review,2022-09-03,
+CH000256,P0003980,ECN,Mechanical Design,Implemented,2026-02-10,2026-06-09
+CH000257,P0001478,Deviation,Mechanical Design,Approved,2026-10-16,
+CH000258,P0001147,ECN,Propulsion,Implemented,2025-11-14,2025-11-26
+CH000259,P0002124,Concession,Supplier Managed,Draft,2021-10-26,
+CH000260,P0002003,ECN,Tooling,Implemented,2023-05-31,2023-11-20
+CH000261,P0002822,Deviation,Propulsion,Draft,2021-01-12,
+CH000262,P0000596,Deviation,Tooling,In Review,2021-08-13,
+CH000263,P0001491,Concession,Tooling,In Review,2021-11-02,
+CH000264,P0000852,Deviation,Tooling,In Review,2025-10-28,
+CH000265,P0004704,ECN,Tooling,Rejected,2022-03-04,2022-05-11
+CH000266,P0000849,ECR,Aftermarket,Approved,2025-06-23,
+CH000267,P0001451,ECR,Systems,Rejected,2024-07-13,2024-07-30
+CH000268,P0002656,ECN,Mechanical Design,Draft,2023-03-15,
+CH000269,P0000573,ECN,Structures,Rejected,2020-12-18,2021-04-05
+CH000270,P0000920,Deviation,Tooling,Draft,2022-07-20,
+CH000271,P0004872,Concession,Supplier Managed,Approved,2023-05-31,
+CH000272,P0005083,ECR,Propulsion,Draft,2023-05-03,
+CH000273,P0003955,ECN,Aftermarket,Implemented,2024-05-26,2024-07-05
+CH000274,P0003410,Deviation,Aftermarket,Draft,2021-05-09,
+CH000275,P0003429,ECN,Systems,Approved,2024-04-04,
+CH000276,P0002361,ECR,Tooling,Approved,2023-08-18,
+CH000277,P0003540,ECR,Propulsion,In Review,2024-11-06,
+CH000278,P0000822,Deviation,Structures,Implemented,2024-06-27,2024-11-06
+CH000279,P0002987,ECN,Mechanical Design,Rejected,2020-11-29,2021-04-14
+CH000280,P0005185,Concession,Systems,Implemented,2025-11-13,2026-01-01
+CH000281,P0001859,Deviation,Tooling,Rejected,2022-06-28,2022-08-17
+CH000282,P0004419,Deviation,Structures,Implemented,2025-06-10,2025-07-10
+CH000283,P0003606,ECN,Systems,Draft,2025-06-29,
+CH000284,P0001993,ECR,Tooling,Approved,2025-11-22,
+CH000285,P0005164,Concession,Propulsion,Implemented,2025-10-18,2026-04-10
+CH000286,P0000106,ECR,Tooling,Draft,2023-08-24,
+CH000287,P0003803,Concession,Propulsion,Approved,2026-08-22,
+CH000288,P0002822,Concession,Mechanical Design,In Review,2024-12-01,
+CH000289,P0001195,Deviation,Supplier Managed,Draft,2025-10-17,
+CH000290,P0003889,Concession,Structures,Rejected,2021-06-01,2021-08-07
+CH000291,P0002844,Concession,Systems,Draft,2022-07-21,
+CH000292,P0003720,ECR,Aftermarket,Approved,2022-11-20,
+CH000293,P0004225,ECR,Supplier Managed,In Review,2021-06-25,
+CH000294,P0003738,ECR,Mechanical Design,In Review,2024-01-30,
+CH000295,P0004285,ECN,Propulsion,Approved,2024-01-12,
+CH000296,P0000294,ECR,Tooling,Rejected,2021-06-28,2021-10-11
+CH000297,P0000451,Concession,Tooling,Approved,2025-12-02,
+CH000298,P0001188,ECN,Supplier Managed,Approved,2025-11-28,
+CH000299,P0000074,Concession,Propulsion,Implemented,2021-08-25,2022-01-04
+CH000300,P0004104,ECR,Aftermarket,Implemented,2026-05-10,2026-07-29
+CH000301,P0005131,ECR,Propulsion,Draft,2023-01-23,
+CH000302,P0002225,ECN,Supplier Managed,Implemented,2023-02-03,2023-06-14
+CH000303,P0001736,Concession,Mechanical Design,In Review,2025-07-30,
+CH000304,P0002595,Deviation,Aftermarket,In Review,2021-11-17,
+CH000305,P0003747,ECN,Propulsion,Approved,2025-09-13,
+CH000306,P0004524,ECR,Tooling,Rejected,2022-06-10,2022-10-17
+CH000307,P0000938,Deviation,Supplier Managed,Approved,2026-06-22,
+CH000308,P0001944,ECR,Systems,Implemented,2026-01-08,2026-02-27
+CH000309,P0004869,Deviation,Propulsion,Implemented,2025-03-23,2025-04-09
+CH000310,P0003787,Concession,Mechanical Design,Rejected,2021-08-07,2021-11-27
+CH000311,P0000596,ECR,Structures,Approved,2025-05-20,
+CH000312,P0002094,ECR,Systems,Draft,2025-07-12,
+CH000313,P0001190,ECN,Aftermarket,Implemented,2023-04-24,2023-06-17
+CH000314,P0004971,Concession,Aftermarket,In Review,2021-02-23,
+CH000315,P0000599,ECN,Supplier Managed,Draft,2026-07-18,
+CH000316,P0000347,Concession,Propulsion,Implemented,2024-02-25,2024-04-06
+CH000317,P0003173,Concession,Structures,Rejected,2023-07-24,2023-11-12
+CH000318,P0003067,ECN,Propulsion,Rejected,2021-07-29,2021-11-19
+CH000319,P0001986,ECN,Propulsion,Implemented,2025-03-02,2025-03-11
+CH000320,P0000704,Deviation,Systems,Rejected,2024-03-14,2024-08-16
+CH000321,P0002616,ECR,Structures,Rejected,2023-06-23,2023-10-17
+CH000322,P0004510,ECN,Systems,Draft,2023-04-13,
+CH000323,P0000843,Deviation,Propulsion,Draft,2025-01-12,
+CH000324,P0002871,ECR,Mechanical Design,Draft,2026-04-24,
+CH000325,P0003999,ECR,Systems,Rejected,2026-08-10,2026-09-29
+CH000326,P0002431,ECR,Systems,In Review,2022-08-09,
+CH000327,P0002505,ECN,Propulsion,Draft,2025-01-15,
+CH000328,P0003025,Concession,Tooling,Approved,2023-10-27,
+CH000329,P0004668,Deviation,Mechanical Design,Implemented,2025-04-01,2025-06-06
+CH000330,P0004070,Deviation,Aftermarket,Rejected,2021-10-09,2021-11-14
+CH000331,P0004004,Concession,Structures,Rejected,2023-11-22,2024-01-04
+CH000332,P0001524,ECN,Propulsion,Implemented,2024-03-21,2024-08-25
+CH000333,P0004841,ECN,Structures,Draft,2021-05-27,
+CH000334,P0005016,Deviation,Propulsion,Implemented,2025-01-10,2025-04-13
+CH000335,P0002016,Concession,Mechanical Design,In Review,2025-02-10,
+CH000336,P0002615,ECR,Supplier Managed,Rejected,2021-08-14,2021-10-07
+CH000337,P0004525,Concession,Mechanical Design,Draft,2026-01-07,
+CH000338,P0000434,ECR,Propulsion,Approved,2025-06-27,
+CH000339,P0003600,Concession,Mechanical Design,In Review,2021-05-16,
+CH000340,P0001336,Deviation,Systems,Approved,2023-04-02,
+CH000341,P0002255,Deviation,Systems,Implemented,2021-12-21,2022-05-21
+CH000342,P0002813,Deviation,Systems,Approved,2023-09-21,
+CH000343,P0002281,Deviation,Tooling,In Review,2026-01-10,
+CH000344,P0001662,Concession,Tooling,Approved,2025-09-23,
+CH000345,P0000736,Deviation,Aftermarket,Draft,2022-04-23,
+CH000346,P0001630,Concession,Aftermarket,Rejected,2022-06-24,2022-08-08
+CH000347,P0004692,Concession,Aftermarket,Approved,2022-11-02,
+CH000348,P0000069,Concession,Propulsion,Approved,2025-06-03,
+CH000349,P0000702,Concession,Structures,Draft,2021-02-07,
+CH000350,P0002899,ECR,Mechanical Design,Rejected,2024-08-05,2024-11-18
+CH000351,P0001949,Deviation,Structures,Draft,2024-09-13,
+CH000352,P0004456,ECR,Tooling,Rejected,2024-12-19,2025-01-17
+CH000353,P0000244,Deviation,Propulsion,Implemented,2021-05-23,2021-09-05
+CH000354,P0001522,ECR,Systems,Implemented,2026-03-29,2026-09-16
+CH000355,P0000329,Deviation,Tooling,Draft,2025-09-17,
+CH000356,P0000200,Concession,Systems,Rejected,2023-03-20,2023-03-31
+CH000357,P0001131,ECN,Propulsion,Implemented,2023-06-11,2023-10-27
+CH000358,P0004943,Concession,Tooling,Draft,2022-02-05,
+CH000359,P0000532,ECR,Supplier Managed,Implemented,2026-09-24,2026-11-09
+CH000360,P0000055,ECR,Propulsion,In Review,2025-02-12,
+CH000361,P0003433,ECR,Mechanical Design,Draft,2024-07-10,
+CH000362,P0000834,Deviation,Systems,Implemented,2023-11-05,2023-12-25
+CH000363,P0000262,ECR,Aftermarket,Implemented,2024-07-10,2024-12-30
+CH000364,P0004167,Concession,Mechanical Design,Approved,2023-02-23,
+CH000365,P0001526,ECR,Mechanical Design,Draft,2026-04-03,
+CH000366,P0002989,ECR,Tooling,Approved,2024-10-04,
+CH000367,P0004334,ECR,Mechanical Design,Rejected,2022-01-13,2022-05-11
+CH000368,P0004829,Deviation,Systems,In Review,2024-06-17,
+CH000369,P0002911,Deviation,Tooling,In Review,2023-05-05,
+CH000370,P0001613,Deviation,Aftermarket,In Review,2023-10-15,
+CH000371,P0001427,ECR,Systems,In Review,2022-09-26,
+CH000372,P0000060,ECN,Structures,In Review,2024-03-17,
+CH000373,P0002017,ECR,Systems,In Review,2026-08-06,
+CH000374,P0001957,ECN,Systems,Draft,2025-04-20,
+CH000375,P0000121,Deviation,Supplier Managed,Implemented,2026-04-30,2026-09-28
+CH000376,P0002443,Concession,Tooling,Approved,2026-03-29,
+CH000377,P0004957,ECR,Mechanical Design,Draft,2023-05-25,
+CH000378,P0004558,ECR,Supplier Managed,Implemented,2021-02-28,2021-08-13
+CH000379,P0003937,Deviation,Structures,Implemented,2026-04-16,2026-07-25
+CH000380,P0002378,ECN,Tooling,In Review,2023-02-17,
+CH000381,P0003769,Deviation,Systems,Approved,2023-07-15,
+CH000382,P0000572,ECR,Aftermarket,Draft,2025-12-05,
+CH000383,P0001621,Concession,Supplier Managed,In Review,2021-05-01,
+CH000384,P0003209,ECN,Propulsion,In Review,2021-10-03,
+CH000385,P0003454,ECR,Structures,Draft,2024-06-23,
+CH000386,P0001994,Deviation,Mechanical Design,In Review,2021-06-29,
+CH000387,P0003921,Deviation,Supplier Managed,Implemented,2022-01-30,2022-04-03
+CH000388,P0001925,Concession,Supplier Managed,Implemented,2024-10-14,2025-03-26
+CH000389,P0001976,ECR,Systems,Approved,2022-09-14,
+CH000390,P0003547,ECR,Systems,In Review,2023-10-26,
+CH000391,P0001529,ECN,Propulsion,In Review,2025-10-04,
+CH000392,P0004240,Concession,Mechanical Design,Implemented,2022-04-13,2022-05-20
+CH000393,P0004951,Deviation,Tooling,In Review,2022-04-11,
+CH000394,P0004813,Concession,Structures,Draft,2020-12-22,
+CH000395,P0000031,ECN,Aftermarket,Draft,2021-09-23,
+CH000396,P0002167,ECR,Aftermarket,Rejected,2023-06-24,2023-12-05
+CH000397,P0003425,Concession,Supplier Managed,Approved,2025-06-13,
+CH000398,P0002908,ECR,Supplier Managed,Implemented,2024-11-01,2025-01-13
+CH000399,P0001728,ECR,Systems,Draft,2025-10-09,
+CH000400,P0004595,Deviation,Structures,Rejected,2022-08-16,2022-09-25
+CH000401,P0000880,ECN,Aftermarket,In Review,2022-10-07,
+CH000402,P0001783,ECN,Mechanical Design,In Review,2024-02-05,
+CH000403,P0000306,ECR,Tooling,In Review,2023-07-17,
+CH000404,P0001357,Deviation,Propulsion,Approved,2021-05-20,
+CH000405,P0000237,ECN,Aftermarket,In Review,2020-10-31,
+CH000406,P0004763,Deviation,Supplier Managed,Draft,2023-01-18,
+CH000407,P0001497,ECR,Systems,Implemented,2026-06-20,2026-12-04
+CH000408,P0001255,ECR,Mechanical Design,Implemented,2021-01-31,2021-05-05
+CH000409,P0002927,Concession,Aftermarket,Approved,2022-10-01,
+CH000410,P0004190,Concession,Mechanical Design,Draft,2023-03-12,
+CH000411,P0001826,ECR,Structures,In Review,2025-09-12,
+CH000412,P0002306,Deviation,Systems,Rejected,2023-07-13,2023-11-15
+CH000413,P0000058,Deviation,Systems,In Review,2026-05-09,
+CH000414,P0001083,Concession,Propulsion,Rejected,2024-10-07,2025-01-25
+CH000415,P0000287,Concession,Propulsion,Draft,2023-06-20,
+CH000416,P0002665,ECN,Propulsion,In Review,2023-05-23,
+CH000417,P0003161,Concession,Supplier Managed,Rejected,2023-07-23,2023-11-15
+CH000418,P0000727,ECN,Aftermarket,Rejected,2023-09-20,2024-02-10
+CH000419,P0001199,ECR,Systems,Approved,2021-11-17,
+CH000420,P0003220,Deviation,Mechanical Design,Approved,2026-05-31,
+CH000421,P0000573,Deviation,Mechanical Design,In Review,2024-04-14,
+CH000422,P0004828,Concession,Tooling,In Review,2021-12-16,
+CH000423,P0005016,Deviation,Systems,In Review,2024-04-12,
+CH000424,P0004215,Deviation,Supplier Managed,Implemented,2023-01-31,2023-03-01
+CH000425,P0000098,Deviation,Propulsion,Rejected,2022-12-02,2023-02-15
+CH000426,P0001500,Deviation,Systems,Rejected,2023-04-22,2023-04-27
+CH000427,P0000419,ECR,Supplier Managed,In Review,2021-08-04,
+CH000428,P0003311,Deviation,Aftermarket,Draft,2024-01-13,
+CH000429,P0003014,Deviation,Aftermarket,Draft,2024-11-07,
+CH000430,P0004427,Concession,Supplier Managed,Approved,2025-05-13,
+CH000431,P0001110,ECR,Aftermarket,In Review,2021-03-04,
+CH000432,P0001958,Deviation,Tooling,Draft,2026-01-05,
+CH000433,P0004486,Deviation,Systems,Rejected,2021-04-11,2021-09-01
+CH000434,P0005061,Deviation,Mechanical Design,Approved,2023-06-02,
+CH000435,P0003374,ECR,Propulsion,Draft,2022-05-02,
+CH000436,P0002806,Concession,Systems,In Review,2021-08-06,
+CH000437,P0001171,Deviation,Tooling,In Review,2025-02-15,
+CH000438,P0003513,Deviation,Structures,Implemented,2024-01-15,2024-03-05
+CH000439,P0002990,Concession,Tooling,Draft,2025-06-07,
+CH000440,P0001877,Deviation,Tooling,In Review,2025-11-14,
+CH000441,P0003931,ECN,Propulsion,Draft,2024-09-05,
+CH000442,P0003731,ECN,Propulsion,Rejected,2023-12-19,2024-03-06
+CH000443,P0004744,Deviation,Structures,Approved,2021-04-19,
+CH000444,P0003685,ECN,Structures,Draft,2025-01-20,
+CH000445,P0003433,Deviation,Structures,Implemented,2023-05-11,2023-05-28
+CH000446,P0003459,Concession,Structures,Draft,2026-05-29,
+CH000447,P0001286,Concession,Mechanical Design,Rejected,2020-11-14,2020-12-03
+CH000448,P0000448,ECR,Tooling,Rejected,2022-07-16,2022-11-12
+CH000449,P0000882,ECR,Propulsion,Draft,2025-11-01,
+CH000450,P0001187,ECN,Systems,Rejected,2024-02-21,2024-03-08
+CH000451,P0004614,ECR,Mechanical Design,Rejected,2024-10-26,2025-02-07
+CH000452,P0004302,Deviation,Aftermarket,Approved,2021-12-04,
+CH000453,P0002695,Deviation,Mechanical Design,Implemented,2024-04-21,2024-10-16
+CH000454,P0002272,ECN,Systems,In Review,2021-07-31,
+CH000455,P0003478,ECR,Systems,Draft,2025-06-06,
+CH000456,P0003884,ECN,Tooling,Draft,2022-11-07,
+CH000457,P0000635,Concession,Propulsion,In Review,2024-04-29,
+CH000458,P0001736,Concession,Propulsion,Rejected,2025-10-16,2025-11-24
+CH000459,P0003375,Deviation,Aftermarket,Implemented,2024-06-10,2024-10-07
+CH000460,P0001837,Concession,Aftermarket,Rejected,2024-01-29,2024-05-12
+CH000461,P0002737,Concession,Mechanical Design,Rejected,2026-02-11,2026-05-14
+CH000462,P0003944,ECN,Structures,Rejected,2021-09-20,2022-02-28
+CH000463,P0004344,Concession,Mechanical Design,Draft,2026-08-20,
+CH000464,P0001784,Concession,Tooling,In Review,2025-09-05,
+CH000465,P0003644,ECN,Tooling,Approved,2025-12-05,
+CH000466,P0001345,Concession,Tooling,Implemented,2025-06-08,2025-08-04
+CH000467,P0001920,Concession,Mechanical Design,Draft,2026-08-21,
+CH000468,P0003269,Deviation,Mechanical Design,Rejected,2024-08-05,2024-10-03
+CH000469,P0000377,ECN,Tooling,Implemented,2026-03-27,2026-05-03
+CH000470,P0003946,Deviation,Tooling,Draft,2022-07-21,
+CH000471,P0001488,Deviation,Mechanical Design,Rejected,2024-06-05,2024-09-20
+CH000472,P0002292,Deviation,Aftermarket,In Review,2023-07-30,
+CH000473,P0001968,ECR,Structures,In Review,2022-01-13,
+CH000474,P0001388,ECR,Supplier Managed,Approved,2021-10-04,
+CH000475,P0002808,Deviation,Supplier Managed,Rejected,2024-10-04,2024-11-13
+CH000476,P0002057,ECN,Structures,Draft,2024-08-26,
+CH000477,P0002829,ECR,Mechanical Design,Rejected,2023-04-06,2023-05-16
+CH000478,P0004950,ECN,Mechanical Design,Implemented,2026-09-24,2027-03-18
+CH000479,P0000492,ECN,Structures,Draft,2024-09-23,
+CH000480,P0004852,Deviation,Supplier Managed,Approved,2021-08-28,
+CH000481,P0002316,Deviation,Systems,Rejected,2022-05-09,2022-06-29
+CH000482,P0002889,ECN,Propulsion,In Review,2026-08-14,
+CH000483,P0003655,Concession,Tooling,Implemented,2021-07-01,2021-07-06
+CH000484,P0004919,Concession,Propulsion,Approved,2021-08-26,
+CH000485,P0001898,Concession,Aftermarket,In Review,2024-02-01,
+CH000486,P0000382,ECN,Supplier Managed,Implemented,2022-01-06,2022-06-22
+CH000487,P0001419,ECN,Systems,Approved,2022-04-18,
+CH000488,P0003765,Concession,Aftermarket,Draft,2023-12-27,
+CH000489,P0000863,Concession,Mechanical Design,Draft,2022-07-10,
+CH000490,P0001333,Deviation,Structures,Approved,2021-03-22,
+CH000491,P0005090,ECR,Mechanical Design,Draft,2025-03-25,
+CH000492,P0003944,ECN,Supplier Managed,Implemented,2022-08-09,2022-09-11
+CH000493,P0004408,Deviation,Mechanical Design,Rejected,2021-03-30,2021-09-21
+CH000494,P0004711,Deviation,Systems,Implemented,2022-07-28,2022-08-08
+CH000495,P0001394,ECR,Mechanical Design,Approved,2021-11-02,
+CH000496,P0003869,Concession,Tooling,Draft,2026-04-24,
+CH000497,P0003295,ECR,Structures,Approved,2022-11-14,
+CH000498,P0003464,Concession,Structures,In Review,2025-05-22,
+CH000499,P0000146,Deviation,Supplier Managed,Approved,2025-02-22,
+CH000500,P0003172,ECR,Supplier Managed,Implemented,2024-06-14,2024-11-11
+CH000501,P0004242,Deviation,Systems,In Review,2025-06-20,
+CH000502,P0004954,ECN,Aftermarket,Implemented,2025-02-23,2025-05-16
+CH000503,P0000626,ECR,Supplier Managed,Rejected,2021-07-28,2021-11-28
+CH000504,P0002874,Deviation,Systems,Implemented,2023-01-30,2023-04-02
+CH000505,P0001996,ECR,Mechanical Design,In Review,2022-02-18,
+CH000506,P0003579,Deviation,Structures,Implemented,2022-05-28,2022-06-13
+CH000507,P0001678,ECR,Structures,Implemented,2024-04-16,2024-09-01
+CH000508,P0000149,ECN,Mechanical Design,Rejected,2026-02-18,2026-01-17
+CH000509,P0003889,ECR,Propulsion,In Review,2023-03-04,
+CH000510,P0000013,ECN,Aftermarket,Rejected,2021-08-12,2021-11-08
+CH000511,P0000429,Concession,Structures,Implemented,2026-01-03,2026-04-28
+CH000512,P0004895,ECN,Supplier Managed,Draft,2023-12-27,
+CH000513,P0003942,Concession,Propulsion,Approved,2021-02-24,
+CH000514,P0000101,Concession,Aftermarket,Approved,2021-10-16,
+CH000515,P0000358,Deviation,Structures,Implemented,2022-07-16,2022-07-24
+CH000516,P0001761,Deviation,Propulsion,Rejected,2022-07-21,2022-11-07
+CH000517,P0004567,Deviation,Mechanical Design,Draft,2023-12-20,
+CH000518,P0002176,Deviation,Structures,Approved,2025-10-15,
+CH000519,P0004318,ECN,Structures,In Review,2021-08-28,
+CH000520,P0002879,Deviation,Systems,In Review,2022-11-06,
+CH000521,P0003767,ECN,Systems,In Review,2025-03-21,
+CH000522,P0004058,Concession,Aftermarket,Implemented,2021-06-24,2021-07-22
+CH000523,P0002314,ECN,Aftermarket,Rejected,2026-07-26,2026-08-09
+CH000524,P0000085,Concession,Systems,Draft,2021-10-15,
+CH000525,P0002582,Deviation,Mechanical Design,Draft,2022-01-09,
+CH000526,P0002091,ECR,Tooling,Implemented,2025-12-29,2026-02-01
+CH000527,P0004146,Concession,Mechanical Design,Rejected,2023-10-07,2024-01-27
+CH000528,P0003943,ECN,Supplier Managed,Rejected,2025-09-06,2025-09-24
+CH000529,P0000875,ECR,Aftermarket,Rejected,2023-05-07,2023-06-16
+CH000530,P0000378,ECR,Mechanical Design,Draft,2022-11-09,
+CH000531,P0004930,ECN,Mechanical Design,Rejected,2023-12-12,2024-04-27
+CH000532,P0000186,Deviation,Propulsion,Rejected,2025-02-06,2025-05-09
+CH000533,P0001801,Concession,Structures,Rejected,2022-12-25,2023-05-10
+CH000534,P0005152,Concession,Tooling,Rejected,2025-03-15,2025-03-20
+CH000535,P0005024,Concession,Mechanical Design,Draft,2022-01-31,
+CH000536,P0004259,ECN,Supplier Managed,In Review,2023-04-18,
+CH000537,P0004528,ECN,Systems,In Review,2022-06-22,
+CH000538,P0001736,Concession,Structures,Approved,2023-07-04,
+CH000539,P0003810,ECR,Structures,Implemented,2024-06-21,2024-07-28
+CH000540,P0000231,ECR,Aftermarket,Approved,2022-04-19,
+CH000541,P0000380,Concession,Aftermarket,In Review,2025-10-19,
+CH000542,P0003616,Concession,Propulsion,Approved,2025-04-27,
+CH000543,P0004133,Concession,Mechanical Design,Implemented,2026-04-12,2026-09-01
+CH000544,P0004198,Deviation,Supplier Managed,Draft,2022-12-12,
+CH000545,P0004940,Concession,Systems,In Review,2026-06-15,
+CH000546,P0003210,Concession,Systems,Draft,2020-11-01,
+CH000547,P0003501,Concession,Structures,Rejected,2022-04-11,2022-07-08
+CH000548,P0004108,ECN,Propulsion,Approved,2025-09-29,
+CH000549,P0003536,ECR,Aftermarket,Draft,2026-01-14,
+CH000550,P0000068,ECR,Systems,Approved,2026-05-12,
+CH000551,P0002448,ECR,Structures,Draft,2026-09-11,
+CH000552,P0000021,ECR,Structures,Rejected,2023-02-12,2023-07-03
+CH000553,P0002894,ECR,Mechanical Design,Draft,2023-02-10,
+CH000554,P0003039,ECN,Structures,Rejected,2024-11-10,2025-01-05
+CH000555,P0001507,Deviation,Structures,Rejected,2024-06-01,2024-08-18
+CH000556,P0002257,ECR,Tooling,Draft,2025-04-11,
+CH000557,P0001791,Concession,Propulsion,Rejected,2025-10-08,2025-12-27
+CH000558,P0004274,ECN,Systems,Draft,2021-02-18,
+CH000559,P0004676,ECR,Tooling,Implemented,2024-11-04,2025-04-29
+CH000560,P0001895,Deviation,Systems,Rejected,2025-02-16,2025-05-20
+CH000561,P0001558,Concession,Mechanical Design,Implemented,2023-09-30,2024-03-02
+CH000562,P0002688,ECR,Structures,In Review,2023-09-27,
+CH000563,P0005034,ECN,Aftermarket,Draft,2020-11-24,
+CH000564,P0004175,ECR,Tooling,Rejected,2024-04-29,2024-09-26
+CH000565,P0001933,ECN,Structures,Approved,2026-07-11,
+CH000566,P0004066,Deviation,Supplier Managed,Approved,2024-04-07,
+CH000567,P0001500,Deviation,Aftermarket,Approved,2023-06-11,
+CH000568,P0001292,ECN,Aftermarket,Draft,2024-10-18,
+CH000569,P0001167,ECN,Supplier Managed,Rejected,2025-05-03,2025-07-30
+CH000570,P0000845,ECR,Propulsion,In Review,2026-06-10,
+CH000571,P0004527,Deviation,Systems,Rejected,2022-07-19,2022-10-27
+CH000572,P0000325,Concession,Systems,Draft,2021-12-03,
+CH000573,P0000626,ECN,Systems,Rejected,2024-08-03,2024-08-14
+CH000574,P0002493,Deviation,Supplier Managed,Implemented,2024-10-07,2024-10-15
+CH000575,P0004176,ECN,Systems,Approved,2021-10-07,
+CH000576,P0000150,ECN,Structures,In Review,2023-12-13,
+CH000577,P0004572,Deviation,Supplier Managed,Rejected,2024-06-15,2024-10-29
+CH000578,P0004867,ECN,Aftermarket,Implemented,2024-06-21,2024-08-16
+CH000579,P0001379,Concession,Mechanical Design,Approved,2026-04-18,
+CH000580,P0000365,ECN,Tooling,Approved,2024-11-04,
+CH000581,P0003070,ECR,Structures,In Review,2025-03-24,
+CH000582,P0001784,Deviation,Aftermarket,Approved,2023-06-26,
+CH000583,P0000997,Concession,Systems,Implemented,2024-05-22,2024-10-26
+CH000584,P0002026,Concession,Tooling,Implemented,2020-12-24,2021-01-11
+CH000585,P0004126,ECN,Propulsion,Rejected,2026-04-08,2026-08-31
+CH000586,P0000394,ECR,Structures,Implemented,2022-12-28,2023-02-25
+CH000587,P0001646,Concession,Structures,Implemented,2022-11-15,2023-03-21
+CH000588,P0004355,Deviation,Structures,Draft,2021-11-11,
+CH000589,P0000139,Deviation,Systems,Rejected,2026-05-13,2026-10-11
+CH000590,P0002371,ECR,Aftermarket,Rejected,2021-12-12,2022-02-25
+CH000591,P0001376,Deviation,Supplier Managed,Draft,2021-01-26,
+CH000592,P0004183,ECN,Structures,Rejected,2024-06-03,2024-09-30
+CH000593,P0000897,ECN,Mechanical Design,In Review,2026-01-06,
+CH000594,P0000256,ECN,Propulsion,In Review,2022-10-30,
+CH000595,P0002470,ECR,Supplier Managed,Approved,2023-07-30,
+CH000596,P0001647,Deviation,Supplier Managed,In Review,2024-11-30,
+CH000597,P0003421,Deviation,Supplier Managed,Draft,2020-10-26,
+CH000598,P0000499,Concession,Mechanical Design,Rejected,2025-12-23,2026-03-28
+CH000599,P0004092,ECR,Aftermarket,In Review,2023-05-21,
+CH000600,P0004144,Deviation,Mechanical Design,Approved,2025-01-31,
+CH000601,P0000571,Deviation,Propulsion,In Review,2021-01-20,
+CH000602,P0004405,ECR,Aftermarket,Approved,2024-06-08,
+CH000603,P0001367,ECR,Supplier Managed,In Review,2023-02-15,
+CH000604,P0002892,ECN,Tooling,Draft,2025-03-17,
+CH000605,P0000653,ECR,Propulsion,Draft,2024-05-14,
+CH000606,P0003624,Deviation,Mechanical Design,Rejected,2026-03-24,2026-08-04
+CH000607,P0000260,ECR,Supplier Managed,Implemented,2024-03-03,2024-08-16
+CH000608,P0001151,Deviation,Supplier Managed,In Review,2025-04-22,
+CH000609,P0003700,Concession,Structures,Draft,2021-04-24,
+CH000610,P0002310,ECR,Aftermarket,Implemented,2021-09-09,2022-03-06
+CH000611,P0004612,ECN,Propulsion,In Review,2022-10-24,
+CH000612,P0002299,Concession,Mechanical Design,Approved,2021-01-04,
+CH000613,P0003437,Concession,Mechanical Design,Draft,2026-01-08,
+CH000614,P0003115,Deviation,Systems,Implemented,2024-11-03,2025-04-12
+CH000615,P0004732,ECN,Mechanical Design,In Review,2026-02-12,
+CH000616,P0002665,ECN,Systems,In Review,2021-11-21,
+CH000617,P0004391,Concession,Supplier Managed,Rejected,2021-10-11,2022-03-16
+CH000618,P0003538,ECN,Tooling,Draft,2020-11-29,
+CH000619,P0002201,Deviation,Mechanical Design,Approved,2024-01-31,
+CH000620,P0000675,ECN,Propulsion,Rejected,2025-04-04,2025-07-21
+CH000621,P0002144,ECR,Supplier Managed,In Review,2020-12-24,
+CH000622,P0004268,Deviation,Systems,Rejected,2023-12-23,2024-04-25
+CH000623,P0000364,ECN,Tooling,Approved,2022-03-09,
+CH000624,P0001983,ECN,Aftermarket,Approved,2025-12-04,
+CH000625,P0003114,Deviation,Structures,Rejected,2022-02-12,2022-03-12
+CH000626,P0004424,ECR,Propulsion,Rejected,2024-05-08,2024-07-21
+CH000627,P0004736,Deviation,Supplier Managed,Draft,2022-04-30,
+CH000628,P0002740,Concession,Mechanical Design,Implemented,2022-04-16,2022-09-23
+CH000629,P0002899,ECR,Supplier Managed,In Review,2025-11-08,
+CH000630,P0001799,ECR,Systems,In Review,2022-12-13,
+CH000631,P0001522,ECN,Mechanical Design,Implemented,2021-05-19,2021-10-09
+CH000632,P0004180,Deviation,Structures,In Review,2024-06-02,
+CH000633,P0001693,Deviation,Aftermarket,Rejected,2022-08-19,2022-09-19
+CH000634,P0003662,Deviation,Supplier Managed,Rejected,2026-01-26,2026-04-20
+CH000635,P0001187,Concession,Propulsion,In Review,2022-07-01,
+CH000636,P0001719,ECN,Mechanical Design,Draft,2021-10-12,
+CH000637,P0001419,ECR,Supplier Managed,Rejected,2022-02-25,2022-06-13
+CH000638,P0001051,Deviation,Supplier Managed,Draft,2024-05-26,
+CH000639,P0001985,ECR,Aftermarket,Draft,2024-05-24,
+CH000640,P0004989,Deviation,Systems,In Review,2025-03-20,
+CH000641,P0005020,Concession,Supplier Managed,Approved,2025-05-21,
+CH000642,P0003891,ECR,Systems,Draft,2026-04-30,
+CH000643,P0003096,ECN,Mechanical Design,Approved,2024-02-02,
+CH000644,P0002708,ECN,Propulsion,Approved,2024-10-23,
+CH000645,P0000902,Concession,Aftermarket,In Review,2023-09-09,
+CH000646,P0003974,Deviation,Supplier Managed,Rejected,2021-12-21,2022-03-25
+CH000647,P0004654,ECR,Structures,Draft,2024-03-26,
+CH000648,P0004706,ECR,Propulsion,Approved,2024-06-08,
+CH000649,P0004071,ECN,Aftermarket,Approved,2024-06-06,
+CH000650,P0000460,Concession,Supplier Managed,Approved,2022-06-19,
+CH000651,P0000885,Concession,Supplier Managed,Implemented,2025-08-12,2025-09-02
+CH000652,P0003591,Deviation,Aftermarket,Draft,2021-06-18,
+CH000653,P0003405,ECR,Aftermarket,Draft,2020-12-16,
+CH000654,P0000265,ECN,Mechanical Design,In Review,2021-04-05,
+CH000655,P0003539,Concession,Propulsion,Approved,2025-01-03,
+CH000656,P0000944,Concession,Systems,In Review,2024-05-16,
+CH000657,P0005127,Deviation,Tooling,Rejected,2024-12-09,2025-01-21
+CH000658,P0002912,ECR,Propulsion,Approved,2023-12-17,
+CH000659,P0002512,Concession,Aftermarket,Approved,2025-09-09,
+CH000660,P0002594,Deviation,Aftermarket,Rejected,2026-07-24,2026-08-20
+CH000661,P0004792,Concession,Propulsion,Rejected,2023-07-10,2023-11-27
+CH000662,P0002519,ECN,Structures,Draft,2024-11-19,
+CH000663,P0004074,Deviation,Systems,Draft,2026-06-05,
+CH000664,P0001323,ECR,Supplier Managed,Draft,2022-08-06,
+CH000665,P0003388,ECR,Mechanical Design,Implemented,2022-12-21,2023-02-16
+CH000666,P0002639,ECN,Systems,Approved,2022-01-03,
+CH000667,P0001074,ECR,Supplier Managed,In Review,2022-10-20,
+CH000668,P0000278,Deviation,Supplier Managed,In Review,2024-01-19,
+CH000669,P0001739,Deviation,Systems,Implemented,2021-12-11,2022-05-13
+CH000670,P0001575,ECR,Propulsion,Approved,2026-07-20,
+CH000671,P0003363,Concession,Mechanical Design,Rejected,2021-08-11,2021-10-30
+CH000672,P0002707,ECR,Tooling,In Review,2021-02-07,
+CH000673,P0001707,ECN,Systems,Rejected,2023-11-03,2023-11-19
+CH000674,P0004663,ECN,Propulsion,In Review,2021-11-27,
+CH000675,P0003877,ECN,Tooling,Approved,2021-03-20,
+CH000676,P0000727,ECR,Structures,Implemented,2021-05-29,2021-07-22
+CH000677,P0001435,ECN,Aftermarket,Implemented,2025-06-12,2025-09-28
+CH000678,P0004358,ECN,Propulsion,Approved,2025-08-11,
+CH000679,P0000791,Concession,Supplier Managed,Draft,2023-06-12,
+CH000680,P0001548,ECR,Supplier Managed,Rejected,2021-09-08,2021-09-25
+CH000681,P0004758,Deviation,Systems,Rejected,2023-03-26,2023-07-19
+CH000682,P0002316,ECR,Tooling,In Review,2025-04-12,
+CH000683,P0004040,Deviation,Structures,Approved,2024-10-16,
+CH000684,P0003294,ECN,Systems,Approved,2021-08-19,
+CH000685,P0000592,ECR,Systems,Rejected,2022-12-02,2023-05-02
+CH000686,P0004986,ECR,Supplier Managed,Draft,2026-07-03,
+CH000687,P0000236,ECR,Aftermarket,Implemented,2021-10-07,2021-08-25
+CH000688,P0003994,Concession,Tooling,In Review,2026-09-19,
+CH000689,P0002753,Concession,Propulsion,Implemented,2022-02-11,2022-07-15
+CH000690,P0005191,Concession,Supplier Managed,Approved,2026-08-20,
+CH000691,P0001267,ECR,Tooling,Implemented,2025-04-08,2025-05-12
+CH000692,P0002116,Deviation,Mechanical Design,Implemented,2025-11-14,2026-01-28
+CH000693,P0003685,Deviation,Systems,Implemented,2024-09-10,2024-12-14
+CH000694,P0004916,ECN,Structures,Approved,2026-03-20,
+CH000695,P0001767,ECN,Aftermarket,Draft,2026-10-17,
+CH000696,P0000777,ECN,Aftermarket,Rejected,2022-02-14,2022-02-20
+CH000697,P0004113,Deviation,Tooling,Approved,2024-12-03,
+CH000698,P0003666,ECN,Structures,Approved,2023-11-25,
+CH000699,P0000286,Concession,Mechanical Design,Implemented,2022-09-06,2022-08-05
+CH000700,P0001620,ECR,Mechanical Design,Rejected,2024-03-26,2024-04-19
+CH000701,P0001173,Concession,Structures,Implemented,2023-10-15,2024-01-21
+CH000702,P0002915,Concession,Structures,Approved,2021-06-09,
+CH000703,P0001729,ECR,Tooling,Approved,2024-06-01,
+CH000704,P0001949,ECN,Propulsion,Rejected,2022-10-24,2022-11-10
+CH000705,P0001255,Deviation,Propulsion,Draft,2024-05-25,
+CH000706,P0001077,Concession,Supplier Managed,Rejected,2022-11-24,2023-04-25
+CH000707,P0003683,ECR,Tooling,In Review,2023-05-01,
+CH000708,P0000994,ECR,Systems,Rejected,2021-03-12,2021-06-12
+CH000709,P0001193,ECN,Propulsion,In Review,2021-10-01,
+CH000710,P0002877,Deviation,Supplier Managed,Draft,2025-09-04,
+CH000711,P0000692,ECR,Aftermarket,Approved,2022-07-07,
+CH000712,P0001485,ECN,Systems,Approved,2026-02-18,
+CH000713,P0004156,ECN,Mechanical Design,Rejected,2022-03-01,2022-05-27
+CH000714,P0005105,Concession,Structures,In Review,2023-04-02,
+CH000715,P0001637,Deviation,Mechanical Design,Draft,2026-04-28,
+CH000716,P0004387,ECR,Structures,Draft,2025-10-12,
+CH000717,P0002528,ECN,Propulsion,Approved,2026-10-25,
+CH000718,P0002185,ECR,Aftermarket,Implemented,2022-06-12,2022-11-29
+CH000719,P0000951,Concession,Tooling,In Review,2026-01-10,
+CH000720,P0004854,Concession,Propulsion,In Review,2024-05-05,
+CH000721,P0004165,Deviation,Tooling,In Review,2024-01-29,
+CH000722,P0001018,ECN,Propulsion,Rejected,2025-03-12,2025-06-04
+CH000723,P0002885,Concession,Supplier Managed,Implemented,2021-07-22,2022-01-17
+CH000724,P0001317,ECR,Supplier Managed,Implemented,2022-06-26,2022-09-09
+CH000725,P0005079,ECR,Propulsion,In Review,2021-05-31,
+CH000726,P0001131,ECR,Mechanical Design,Draft,2022-03-07,
+CH000727,P0004014,ECR,Structures,Draft,2022-01-03,
+CH000728,P0004067,Concession,Systems,Approved,2021-01-17,
+CH000729,P0004182,ECR,Structures,Approved,2026-02-26,
+CH000730,P0003793,ECR,Systems,Draft,2022-05-04,
+CH000731,P0004630,Concession,Supplier Managed,Implemented,2021-05-04,2021-07-07
+CH000732,P0003410,ECN,Mechanical Design,Draft,2021-06-13,
+CH000733,P0004743,Deviation,Aftermarket,In Review,2025-07-24,
+CH000734,P0003699,Concession,Mechanical Design,Draft,2021-07-20,
+CH000735,P0004016,Deviation,Mechanical Design,Implemented,2025-04-03,2025-07-26
+CH000736,P0003319,Deviation,Aftermarket,Implemented,2025-05-01,2025-03-10
+CH000737,P0004290,Deviation,Supplier Managed,Rejected,2024-08-11,2025-02-04
+CH000738,P0001116,Deviation,Structures,Approved,2024-04-26,
+CH000739,P0005052,Concession,Structures,Approved,2021-06-21,
+CH000740,P0004113,Concession,Aftermarket,In Review,2024-10-15,
+CH000741,P0000873,ECN,Propulsion,Approved,2024-02-07,
+CH000742,P0004043,Concession,Propulsion,In Review,2024-07-08,
+CH000743,P0000890,Deviation,Structures,In Review,2025-10-21,
+CH000744,P0002211,ECR,Tooling,Approved,2022-09-30,
+CH000745,P0001496,ECR,Mechanical Design,Rejected,2026-01-17,2026-03-15
+CH000746,P0000896,Concession,Aftermarket,Implemented,2022-07-07,2022-11-24
+CH000747,P0003202,ECN,Structures,Draft,2024-12-20,
+CH000748,P0002793,Concession,Tooling,Rejected,2024-06-21,2024-12-13
+CH000749,P0000011,Deviation,Structures,Implemented,2026-05-01,2026-05-20
+CH000750,P0001504,Concession,Tooling,Rejected,2025-01-15,2025-06-08
+CH000751,P0001447,Deviation,Systems,Approved,2023-06-20,
+CH000752,P0005049,ECN,Aftermarket,Approved,2023-02-16,
+CH000753,P0000135,Deviation,Systems,Implemented,2026-08-25,2026-08-30
+CH000754,P0001718,Concession,Systems,Draft,2024-09-25,
+CH000755,P0002683,Concession,Mechanical Design,In Review,2026-02-27,
+CH000756,P0000808,ECR,Tooling,In Review,2026-07-02,
+CH000757,P0004495,Deviation,Tooling,Draft,2023-09-13,
+CH000758,P0001270,Concession,Mechanical Design,Implemented,2026-06-11,2026-08-19
+CH000759,P0003832,ECR,Supplier Managed,Approved,2024-09-16,
+CH000760,P0003077,ECN,Propulsion,Draft,2022-09-23,
+CH000761,P0001570,ECN,Tooling,Implemented,2025-01-05,2025-06-18
+CH000762,P0000201,Concession,Mechanical Design,Draft,2022-11-18,
+CH000763,P0003562,Deviation,Systems,Rejected,2022-01-31,2022-04-01
+CH000764,P0004421,ECR,Systems,Approved,2026-01-31,
+CH000765,P0002939,ECN,Systems,In Review,2022-12-30,
+CH000766,P0002080,Deviation,Aftermarket,Rejected,2024-05-24,2024-11-04
+CH000767,P0004576,ECN,Tooling,In Review,2025-09-04,
+CH000768,P0003206,ECR,Propulsion,Approved,2026-08-09,
+CH000769,P0003221,ECR,Structures,Rejected,2024-01-20,2024-02-10
+CH000770,P0003569,ECR,Systems,Approved,2024-06-25,
+CH000771,P0002547,Concession,Tooling,Draft,2025-08-16,
+CH000772,P0005192,ECR,Structures,Draft,2024-06-11,
+CH000773,P0001124,Deviation,Aftermarket,Approved,2022-11-21,
+CH000774,P0004243,ECN,Systems,Implemented,2023-09-25,2024-01-01
+CH000775,P0003907,ECR,Propulsion,Approved,2023-07-23,
+CH000776,P0001575,Deviation,Aftermarket,Rejected,2025-09-02,2025-12-06
+CH000777,P0004287,Deviation,Tooling,Draft,2023-11-07,
+CH000778,P0003841,Concession,Systems,Implemented,2025-11-21,2025-12-31
+CH000779,P0005087,ECN,Propulsion,Draft,2026-07-20,
+CH000780,P0002433,ECR,Mechanical Design,Draft,2025-12-11,
+CH000781,P0000431,Concession,Aftermarket,Implemented,2024-01-06,2024-03-14
+CH000782,P0003540,ECR,Aftermarket,Implemented,2021-12-10,2022-02-11
+CH000783,P0003687,Deviation,Systems,Approved,2026-09-15,
+CH000784,P0001322,ECR,Propulsion,Approved,2023-11-08,
+CH000785,P0000284,ECR,Mechanical Design,In Review,2024-02-05,
+CH000786,P0004303,ECN,Supplier Managed,Draft,2026-08-14,
+CH000787,P0005165,Deviation,Systems,Approved,2024-06-22,
+CH000788,P0001124,ECR,Supplier Managed,Draft,2021-10-04,
+CH000789,P0003463,ECN,Systems,Rejected,2024-11-27,2025-02-17
+CH000790,P0003875,Deviation,Systems,Rejected,2023-08-04,2023-09-03
+CH000791,P0000369,ECR,Propulsion,Implemented,2025-09-23,2026-02-24
+CH000792,P0003076,ECR,Tooling,Draft,2026-01-21,
+CH000793,P0001611,Concession,Mechanical Design,In Review,2024-07-07,
+CH000794,P0001936,Concession,Systems,Rejected,2022-03-15,2022-08-27
+CH000795,P0000515,Deviation,Tooling,Implemented,2026-09-06,2026-12-04
+CH000796,P0003521,ECN,Aftermarket,Implemented,2023-04-01,2023-03-26
+CH000797,P0002825,Deviation,Tooling,Rejected,2025-02-02,2025-02-19
+CH000798,P0000612,ECR,Supplier Managed,In Review,2024-08-21,
+CH000799,P0001019,ECN,Structures,Implemented,2022-09-07,2023-01-09
+CH000800,P0002418,Concession,Propulsion,Draft,2023-11-25,
+CH000801,P0002028,ECR,Propulsion,Rejected,2021-06-21,2021-12-09
+CH000802,P0002287,Concession,Mechanical Design,Approved,2023-08-03,
+CH000803,P0003770,Deviation,Mechanical Design,Implemented,2020-12-28,2021-05-28
+CH000804,P0002872,Concession,Structures,Implemented,2026-02-07,2026-06-22
+CH000805,P0001246,Deviation,Supplier Managed,Rejected,2023-09-18,2024-03-15
+CH000806,P0002023,Deviation,Aftermarket,Rejected,2024-08-17,2024-10-18
+CH000807,P0002615,Deviation,Propulsion,Implemented,2026-06-20,2026-11-15
+CH000808,P0001028,ECN,Mechanical Design,Draft,2021-06-30,
+CH000809,P0003196,Deviation,Systems,Implemented,2025-10-15,2025-12-27
+CH000810,P0003063,Deviation,Aftermarket,Implemented,2021-08-04,2022-01-24
+CH000811,P0005161,Concession,Structures,In Review,2025-07-07,
+CH000812,P0001899,Deviation,Tooling,In Review,2022-04-01,
+CH000813,P0004471,ECN,Structures,In Review,2022-03-10,
+CH000814,P0001976,Concession,Structures,Implemented,2023-06-28,2023-07-06
+CH000815,P0003415,Deviation,Propulsion,Implemented,2022-11-30,2023-05-08
+CH000816,P0004892,ECR,Propulsion,In Review,2024-10-24,
+CH000817,P0005093,Deviation,Propulsion,In Review,2021-12-24,
+CH000818,P0001045,Concession,Propulsion,In Review,2023-05-28,
+CH000819,P0003083,ECN,Aftermarket,Draft,2025-04-08,
+CH000820,P0004289,ECR,Supplier Managed,Approved,2026-06-12,
+CH000821,P0001219,Deviation,Mechanical Design,Implemented,2022-03-03,2022-04-13
+CH000822,P0003940,Deviation,Aftermarket,Approved,2022-10-10,
+CH000823,P0001711,ECN,Structures,Approved,2022-02-22,
+CH000824,P0003089,ECN,Aftermarket,Draft,2025-09-03,
+CH000825,P0005128,ECR,Aftermarket,Draft,2026-07-31,
+CH000826,P0002227,ECN,Mechanical Design,Approved,2024-07-12,
+CH000827,P0005001,ECN,Aftermarket,Draft,2025-03-17,
+CH000828,P0000452,Concession,Aftermarket,Draft,2025-03-31,
+CH000829,P0002775,ECR,Propulsion,Rejected,2023-09-17,2023-11-13
+CH000830,P0001482,ECN,Aftermarket,Implemented,2021-12-01,2022-03-30
+CH000831,P0003736,Deviation,Mechanical Design,Draft,2022-04-27,
+CH000832,P0002458,Concession,Structures,In Review,2022-02-01,
+CH000833,P0004563,ECR,Mechanical Design,Rejected,2025-11-15,2026-03-05
+CH000834,P0000497,ECN,Systems,In Review,2023-07-20,
+CH000835,P0000812,Concession,Systems,Draft,2023-09-22,
+CH000836,P0002615,Deviation,Supplier Managed,Rejected,2022-08-13,2022-09-06
+CH000837,P0000529,ECN,Structures,In Review,2024-04-10,
+CH000838,P0000078,ECR,Supplier Managed,Implemented,2025-05-24,2025-07-30
+CH000839,P0002464,ECN,Propulsion,Draft,2024-01-21,
+CH000840,P0000574,ECR,Aftermarket,Approved,2021-12-13,
+CH000841,P0001837,Concession,Mechanical Design,Rejected,2025-01-06,2025-05-08
+CH000842,P0002166,ECR,Structures,In Review,2025-06-10,
+CH000843,P0000299,ECR,Structures,In Review,2021-09-16,
+CH000844,P0001909,Deviation,Systems,In Review,2026-01-03,
+CH000845,P0000935,ECN,Systems,Implemented,2022-12-01,2023-04-27
+CH000846,P0003351,Concession,Mechanical Design,Draft,2023-04-17,
+CH000847,P0004898,Concession,Tooling,In Review,2025-07-06,
+CH000848,P0002522,ECR,Structures,Implemented,2021-07-21,2021-10-17
+CH000849,P0002017,ECN,Structures,In Review,2024-02-15,
+CH000850,P0002582,Concession,Mechanical Design,Draft,2022-07-25,
+CH000851,P0005193,ECN,Structures,In Review,2022-05-25,
+CH000852,P0003248,Concession,Aftermarket,Approved,2026-05-18,
+CH000853,P0004513,Deviation,Structures,Implemented,2022-04-22,2022-05-16
+CH000854,P0003827,ECR,Systems,In Review,2021-08-14,
+CH000855,P0004911,Concession,Supplier Managed,Rejected,2024-10-04,2025-01-30
+CH000856,P0004147,Deviation,Mechanical Design,Rejected,2020-12-31,2021-05-09
+CH000857,P0003861,ECN,Aftermarket,Rejected,2025-12-14,2026-04-03
+CH000858,P0001804,Deviation,Tooling,Implemented,2023-03-28,2023-08-30
+CH000859,P0000245,ECN,Mechanical Design,Implemented,2024-07-05,2024-08-24
+CH000860,P0001339,ECR,Mechanical Design,Approved,2023-02-16,
+CH000861,P0000972,Deviation,Propulsion,Rejected,2024-03-17,2024-04-13
+CH000862,P0001986,ECN,Systems,Draft,2026-10-01,
+CH000863,P0004290,Concession,Systems,In Review,2021-08-22,
+CH000864,P0001763,Deviation,Tooling,Rejected,2024-01-22,2024-02-28
+CH000865,P0004975,ECN,Propulsion,Approved,2022-04-29,
+CH000866,P0002284,ECR,Propulsion,Draft,2022-01-26,
+CH000867,P0004554,Deviation,Supplier Managed,In Review,2025-04-12,
+CH000868,P0002048,ECR,Supplier Managed,Draft,2021-12-30,
+CH000869,P0000343,Deviation,Mechanical Design,Implemented,2021-08-11,2021-10-23
+CH000870,P0003279,ECN,Mechanical Design,Rejected,2023-05-17,2023-09-16
+CH000871,P0000167,Concession,Aftermarket,Rejected,2022-01-21,2022-06-15
+CH000872,P0002004,ECR,Mechanical Design,Approved,2021-03-26,
+CH000873,P0000573,ECR,Systems,Rejected,2024-03-24,2024-05-03
+CH000874,P0002079,Deviation,Mechanical Design,Implemented,2020-10-26,2020-12-05
+CH000875,P0000172,ECR,Tooling,Approved,2026-09-28,
+CH000876,P0000648,Deviation,Supplier Managed,Implemented,2025-06-28,2025-09-13
+CH000877,P0003015,Concession,Tooling,Rejected,2021-01-08,2021-06-16
+CH000878,P0000711,ECR,Tooling,Implemented,2024-07-09,2024-11-23
+CH000879,P0001820,ECR,Structures,Approved,2023-05-20,
+CH000880,P0004925,ECN,Supplier Managed,In Review,2023-04-27,
+CH000881,P0004792,ECN,Aftermarket,Approved,2021-11-14,
+CH000882,P0001268,ECN,Systems,Rejected,2022-04-28,2022-10-13
+CH000883,P0001985,Deviation,Tooling,Rejected,2024-12-07,2025-03-22
+CH000884,P0003516,ECN,Tooling,In Review,2026-03-08,
+CH000885,P0004868,ECN,Aftermarket,Implemented,2023-11-06,2023-12-05
+CH000886,P0001364,Concession,Tooling,Implemented,2021-11-17,2022-02-09
+CH000887,P0000045,Concession,Tooling,In Review,2025-10-11,
+CH000888,P0000084,ECN,Propulsion,Approved,2022-05-02,
+CH000889,P0000102,ECN,Tooling,Rejected,2024-01-13,2024-01-26
+CH000890,P0000076,Concession,Tooling,Approved,2024-10-19,
+CH000891,P0003714,Concession,Structures,Implemented,2023-11-02,2024-04-24
+CH000892,P0003967,Concession,Tooling,Implemented,2021-07-17,2021-08-26
+CH000893,P0001287,ECR,Systems,In Review,2024-05-01,
+CH000894,P0002721,Concession,Structures,Implemented,2023-02-05,2023-05-02
+CH000895,P0002134,ECN,Mechanical Design,Draft,2023-09-19,
+CH000896,P0003016,ECR,Systems,Draft,2021-03-02,
+CH000897,P0000103,ECN,Mechanical Design,Approved,2022-11-12,
+CH000898,P0004156,ECN,Supplier Managed,In Review,2022-08-29,
+CH000899,P0003164,Deviation,Structures,In Review,2024-04-15,
+CH000900,P0001642,ECR,Aftermarket,Implemented,2024-12-17,2025-04-07
+CH000901,P0004677,Deviation,Aftermarket,Implemented,2021-04-26,2021-08-16
+CH000902,P0005013,Deviation,Mechanical Design,Approved,2021-05-31,
+CH000903,P0002551,Concession,Supplier Managed,Implemented,2025-03-16,2025-06-04
+CH000904,P0002716,Concession,Mechanical Design,Draft,2024-12-14,
+CH000905,P0001900,ECR,Mechanical Design,Rejected,2026-04-06,2026-05-17
+CH000906,P0001661,Deviation,Aftermarket,Rejected,2022-05-10,2022-09-18
+CH000907,P0002431,Deviation,Structures,Rejected,2022-03-28,2022-02-11
+CH000908,P0001405,ECN,Supplier Managed,Implemented,2021-04-13,2021-07-04
+CH000909,P0003997,Deviation,Structures,In Review,2021-01-16,
+CH000910,P0000084,ECR,Mechanical Design,Draft,2021-02-26,
+CH000911,P0004728,Concession,Propulsion,Implemented,2024-07-04,2024-11-19
+CH000912,P0003541,Deviation,Aftermarket,In Review,2021-05-20,
+CH000913,P0002470,ECN,Tooling,Approved,2025-01-15,
+CH000914,P0003300,Concession,Supplier Managed,Draft,2022-07-14,
+CH000915,P0004097,Concession,Aftermarket,Rejected,2026-09-08,2026-07-29
+CH000916,P0004758,ECN,Supplier Managed,Rejected,2026-04-11,2026-08-08
+CH000917,P0005077,Concession,Systems,Rejected,2024-02-09,2024-05-03
+CH000918,P0001054,ECN,Tooling,Implemented,2024-11-12,2024-12-17
+CH000919,P0001038,Concession,Mechanical Design,Approved,2021-10-08,
+CH000920,P0002341,ECR,Structures,Implemented,2024-11-09,2025-04-12
+CH000921,P0004343,ECR,Mechanical Design,Approved,2025-12-11,
+CH000922,P0003023,Deviation,Structures,Draft,2021-03-21,
+CH000923,P0000521,ECN,Structures,Approved,2025-12-20,
+CH000924,P0003906,Deviation,Aftermarket,Implemented,2024-12-24,2025-02-25
+CH000925,P0001202,ECR,Supplier Managed,Draft,2021-03-30,
+CH000926,P0004248,Concession,Supplier Managed,In Review,2023-04-26,
+CH000927,P0004735,Concession,Tooling,Implemented,2021-05-25,2021-10-08
+CH000928,P0001922,ECN,Tooling,Implemented,2021-07-30,2021-12-14
+CH000929,P0000476,ECR,Supplier Managed,Approved,2022-04-24,
+CH000930,P0003706,ECN,Systems,Approved,2024-12-12,
+CH000931,P0001510,ECN,Tooling,In Review,2022-10-24,
+CH000932,P0000739,Concession,Structures,Implemented,2022-05-01,2022-05-13
+CH000933,P0003223,ECN,Systems,In Review,2024-01-11,
+CH000934,P0005170,ECR,Systems,Rejected,2021-06-30,2021-11-27
+CH000935,P0001707,Deviation,Aftermarket,In Review,2023-11-16,
+CH000936,P0000309,Concession,Mechanical Design,Rejected,2022-12-06,2023-05-23
+CH000937,P0002719,Concession,Tooling,Approved,2026-08-13,
+CH000938,P0003592,Deviation,Propulsion,In Review,2026-03-30,
+CH000939,P0001097,ECN,Tooling,Draft,2023-01-10,
+CH000940,P0003933,Concession,Mechanical Design,Rejected,2024-01-30,2024-04-16
+CH000941,P0001915,ECN,Tooling,Implemented,2023-10-31,2024-03-02
+CH000942,P0001001,ECN,Tooling,Rejected,2021-05-12,2021-06-23
+CH000943,P0000922,ECN,Supplier Managed,Draft,2025-10-12,
+CH000944,P0000092,ECN,Mechanical Design,Implemented,2022-07-28,2022-10-06
+CH000945,P0003915,Deviation,Systems,Rejected,2025-09-19,2025-12-04
+CH000946,P0004409,ECR,Supplier Managed,Draft,2023-09-27,
+CH000947,P0003513,Deviation,Mechanical Design,Implemented,2024-11-10,2025-04-28
+CH000948,P0001166,ECR,Aftermarket,Draft,2025-01-04,
+CH000949,P0002791,ECN,Mechanical Design,Approved,2025-04-26,
+CH000950,P0002990,ECR,Propulsion,Draft,2024-03-19,
+CH000951,P0004192,Concession,Mechanical Design,In Review,2025-05-25,
+CH000952,P0002467,ECR,Tooling,Rejected,2021-02-14,2021-05-17
+CH000953,P0001596,ECN,Structures,Draft,2023-04-27,
+CH000954,P0002644,Deviation,Aftermarket,Approved,2023-04-23,
+CH000955,P0004895,Concession,Systems,In Review,2024-11-11,
+CH000956,P0003391,ECR,Mechanical Design,Approved,2020-12-10,
+CH000957,P0001147,ECR,Aftermarket,Approved,2025-07-02,
+CH000958,P0002969,Concession,Supplier Managed,In Review,2022-10-06,
+CH000959,P0003800,ECR,Propulsion,Rejected,2023-08-02,2023-11-19
+CH000960,P0003188,ECR,Mechanical Design,Draft,2021-10-15,
+CH000961,P0005171,ECR,Systems,In Review,2021-10-10,
+CH000962,P0001730,ECN,Systems,In Review,2022-05-05,
+CH000963,P0001834,ECN,Tooling,Approved,2024-10-18,
+CH000964,P0002611,ECN,Supplier Managed,Approved,2026-05-11,
+CH000965,P0003270,ECR,Supplier Managed,Approved,2025-08-21,
+CH000966,P0002555,ECR,Supplier Managed,Implemented,2022-05-12,2022-09-13
+CH000967,P0003240,ECN,Aftermarket,Draft,2022-10-01,
+CH000968,P0002575,Concession,Systems,Approved,2022-09-03,
+CH000969,P0005088,Concession,Systems,In Review,2022-09-12,
+CH000970,P0001785,Concession,Tooling,Rejected,2023-12-10,2024-02-18
+CH000971,P0003113,ECR,Supplier Managed,Rejected,2021-05-16,2021-10-16
+CH000972,P0004756,ECR,Mechanical Design,Rejected,2025-12-17,2026-02-06
+CH000973,P0002894,ECR,Tooling,Draft,2024-09-28,
+CH000974,P0005142,ECR,Aftermarket,Draft,2025-12-22,
+CH000975,P0001639,Deviation,Aftermarket,Implemented,2021-09-08,2021-12-14
+CH000976,P0000517,Deviation,Tooling,Approved,2026-10-17,
+CH000977,P0000508,ECN,Aftermarket,In Review,2023-01-27,
+CH000978,P0001947,Deviation,Systems,Approved,2023-05-19,
+CH000979,P0000074,ECR,Structures,Rejected,2023-11-26,2024-02-21
+CH000980,P0000433,Concession,Structures,Rejected,2022-09-23,2022-09-29
+CH000981,P0005127,Deviation,Propulsion,Implemented,2026-09-24,2026-10-28
+CH000982,P0001735,ECN,Structures,Rejected,2025-12-09,2025-10-25
+CH000983,P0003279,Deviation,Aftermarket,Rejected,2025-05-03,2025-10-19
+CH000984,P0003551,ECN,Supplier Managed,Rejected,2022-09-24,2023-02-24
+CH000985,P0004609,Concession,Aftermarket,Rejected,2026-09-28,2027-03-16
+CH000986,P0001514,Concession,Propulsion,Draft,2020-12-09,
+CH000987,P0000278,Deviation,Structures,Draft,2022-12-24,
+CH000988,P0001383,Deviation,Aftermarket,Implemented,2025-10-27,2025-09-22
+CH000989,P0001163,ECN,Supplier Managed,Approved,2023-11-14,
+CH000990,P0001267,Deviation,Structures,Rejected,2021-10-31,2021-12-22
+CH000991,P0003076,Concession,Supplier Managed,In Review,2021-09-28,
+CH000992,P0004397,ECN,Supplier Managed,Implemented,2021-07-21,2022-01-05
+CH000993,P0004962,Concession,Supplier Managed,In Review,2025-09-27,
+CH000994,P0001960,Concession,Aftermarket,Draft,2022-11-23,
+CH000995,P0003507,ECR,Systems,Rejected,2021-01-24,2021-05-07
+CH000996,P0001875,ECR,Propulsion,Rejected,2022-04-07,2022-07-21
+CH000997,P0000960,ECN,Structures,Draft,2024-10-21,
+CH000998,P0000082,ECN,Structures,Approved,2021-06-27,
+CH000999,P0000034,Concession,Mechanical Design,Implemented,2021-11-26,2022-03-15
+CH001000,P0003935,ECN,Aftermarket,Implemented,2023-01-25,2023-05-30
+CH001001,P0000181,Deviation,Propulsion,Approved,2025-01-24,
+CH001002,P0001241,ECR,Tooling,Approved,2021-02-28,
+CH001003,P0004044,Concession,Systems,Implemented,2025-07-27,2025-10-14
+CH001004,P0002197,ECN,Mechanical Design,Rejected,2024-11-24,2025-05-21
+CH001005,P0001061,Concession,Aftermarket,In Review,2021-09-02,
+CH001006,P0002658,ECN,Tooling,Draft,2024-03-11,
+CH001007,P0001624,ECR,Aftermarket,Approved,2024-06-11,
+CH001008,P0002841,ECR,Aftermarket,Draft,2026-02-06,
+CH001009,P0000535,Concession,Supplier Managed,In Review,2022-08-21,
+CH001010,P0005087,ECN,Systems,Approved,2022-05-17,
+CH001011,P0000072,Deviation,Tooling,Approved,2022-11-05,
+CH001012,P0004704,ECN,Aftermarket,Implemented,2021-01-01,2021-03-20
+CH001013,P0000656,Concession,Systems,Approved,2023-07-18,
+CH001014,P0002625,ECN,Aftermarket,In Review,2023-07-16,
+CH001015,P0002526,ECR,Systems,Approved,2026-06-03,
+CH001016,P0001727,ECN,Systems,In Review,2022-01-29,
+CH001017,P0001696,ECN,Supplier Managed,Implemented,2026-03-09,2026-03-17
+CH001018,P0003365,Deviation,Aftermarket,Rejected,2022-03-14,2022-04-12
+CH001019,P0001748,Deviation,Supplier Managed,Implemented,2021-03-29,2021-06-06
+CH001020,P0001138,Concession,Propulsion,Draft,2024-07-15,
+CH001021,P0004234,ECR,Structures,Draft,2023-06-19,
+CH001022,P0000069,Concession,Propulsion,In Review,2026-07-09,
+CH001023,P0003078,ECN,Supplier Managed,Approved,2021-02-21,
+CH001024,P0004080,Concession,Systems,Draft,2024-05-12,
+CH001025,P0002768,ECN,Supplier Managed,Rejected,2022-01-16,2022-06-05
+CH001026,P0001966,ECN,Structures,Implemented,2026-01-24,2026-04-29
+CH001027,P0004670,Deviation,Tooling,Draft,2023-09-16,
+CH001028,P0001390,Deviation,Tooling,In Review,2023-07-22,
+CH001029,P0002683,ECR,Propulsion,In Review,2023-08-06,
+CH001030,P0002491,ECN,Systems,Approved,2026-09-20,
+CH001031,P0001316,Deviation,Structures,Rejected,2026-08-15,2026-08-23
+CH001032,P0001443,Concession,Aftermarket,Draft,2026-05-31,
+CH001033,P0002058,Deviation,Aftermarket,Implemented,2020-11-14,2021-02-21
+CH001034,P0004481,Concession,Aftermarket,Implemented,2024-11-28,2025-04-03
+CH001035,P0002923,Deviation,Mechanical Design,Implemented,2022-09-25,2023-02-03
+CH001036,P0000781,ECR,Aftermarket,Implemented,2022-06-21,2022-07-07
+CH001037,P0003240,ECN,Supplier Managed,Implemented,2023-02-07,2023-02-24
+CH001038,P0002626,Deviation,Structures,Draft,2026-05-22,
+CH001039,P0000852,Deviation,Structures,Implemented,2024-10-28,2025-01-25
+CH001040,P0001442,ECN,Tooling,Approved,2021-10-26,
+CH001041,P0002507,Deviation,Mechanical Design,Draft,2025-07-04,
+CH001042,P0001842,ECN,Systems,Draft,2024-03-27,
+CH001043,P0002190,ECR,Mechanical Design,Rejected,2024-10-18,2024-11-06
+CH001044,P0000995,ECR,Structures,Draft,2020-12-02,
+CH001045,P0002523,ECN,Tooling,Approved,2021-03-17,
+CH001046,P0002599,ECR,Tooling,Implemented,2021-12-16,2022-03-07
+CH001047,P0000282,Concession,Tooling,Draft,2026-09-26,
+CH001048,P0002921,ECR,Aftermarket,Approved,2023-05-11,
+CH001049,P0003268,ECN,Structures,In Review,2026-04-28,
+CH001050,P0002609,Concession,Structures,Approved,2023-11-17,
+CH001051,P0004048,Concession,Aftermarket,Approved,2022-08-06,
+CH001052,P0004379,Deviation,Structures,Approved,2022-05-06,
+CH001053,P0001221,ECR,Structures,In Review,2026-05-31,
+CH001054,P0000704,Concession,Mechanical Design,Draft,2021-04-21,
+CH001055,P0003506,Deviation,Tooling,In Review,2021-01-25,
+CH001056,P0004049,Concession,Tooling,Implemented,2025-09-17,2026-01-15
+CH001057,P0000391,ECN,Aftermarket,Rejected,2022-03-07,2022-04-24
+CH001058,P0003601,Concession,Structures,Implemented,2026-01-16,2026-03-23
+CH001059,P0003628,Deviation,Tooling,Approved,2024-09-17,
+CH001060,P0004887,ECN,Supplier Managed,Draft,2023-06-04,
+CH001061,P0000755,ECR,Propulsion,Implemented,2025-02-10,2025-06-06
+CH001062,P0001662,Deviation,Systems,Approved,2022-08-29,
+CH001063,P0004578,Concession,Systems,Rejected,2022-05-02,2022-07-02
+CH001064,P0004792,ECN,Tooling,Rejected,2021-09-24,2022-01-26
+CH001065,P0004968,ECN,Tooling,Approved,2026-01-20,
+CH001066,P0003918,Deviation,Mechanical Design,In Review,2025-11-28,
+CH001067,P0002680,Concession,Systems,Draft,2023-04-01,
+CH001068,P0001684,Deviation,Propulsion,Implemented,2021-01-29,2021-02-19
+CH001069,P0002454,ECR,Propulsion,Rejected,2026-01-16,2026-04-15
+CH001070,P0002017,ECN,Structures,Approved,2023-09-26,
+CH001071,P0001514,ECN,Propulsion,Draft,2021-10-08,
+CH001072,P0001484,Deviation,Mechanical Design,Implemented,2024-03-06,2024-09-02
+CH001073,P0003738,ECN,Tooling,Rejected,2025-01-10,2025-04-25
+CH001074,P0003774,Deviation,Mechanical Design,Implemented,2020-11-20,2021-01-30
+CH001075,P0000133,ECN,Propulsion,Approved,2024-08-20,
+CH001076,P0001017,Concession,Mechanical Design,Draft,2024-05-10,
+CH001077,P0004009,ECR,Structures,Approved,2024-06-09,
+CH001078,P0000517,ECN,Systems,Rejected,2026-03-16,2026-07-11
+CH001079,P0004554,Concession,Tooling,In Review,2026-03-13,
+CH001080,P0004006,Concession,Supplier Managed,Approved,2023-06-24,
+CH001081,P0003555,Deviation,Systems,Approved,2026-08-20,
+CH001082,P0001737,ECR,Aftermarket,Approved,2025-06-14,
+CH001083,P0003863,ECR,Propulsion,Approved,2024-04-28,
+CH001084,P0000789,Concession,Aftermarket,Approved,2025-09-26,
+CH001085,P0002276,Concession,Mechanical Design,Implemented,2025-07-22,2025-10-05
+CH001086,P0003542,ECR,Mechanical Design,Draft,2024-08-03,
+CH001087,P0002328,ECN,Structures,Approved,2020-12-13,
+CH001088,P0000869,ECR,Mechanical Design,Approved,2023-05-18,
+CH001089,P0003658,Concession,Mechanical Design,Implemented,2025-06-29,2025-07-10
+CH001090,P0003001,ECN,Mechanical Design,Approved,2023-08-01,
+CH001091,P0001551,Deviation,Mechanical Design,Implemented,2021-03-04,2021-08-16
+CH001092,P0003932,Deviation,Supplier Managed,In Review,2024-11-07,
+CH001093,P0001159,ECR,Systems,Draft,2022-07-18,
+CH001094,P0004990,Deviation,Systems,Draft,2023-01-26,
+CH001095,P0000982,ECR,Aftermarket,Draft,2026-09-18,
+CH001096,P0001548,Concession,Structures,Approved,2026-05-01,
+CH001097,P0003423,ECR,Mechanical Design,In Review,2022-01-06,
+CH001098,P0003600,Deviation,Structures,Implemented,2022-08-18,2023-01-29
+CH001099,P0004278,Deviation,Systems,Implemented,2026-07-28,2026-08-18
+CH001100,P0002412,Concession,Aftermarket,Implemented,2021-02-23,2021-04-05
+CH001101,P0001318,ECN,Structures,Draft,2022-04-10,
+CH001102,P0002605,ECN,Systems,Implemented,2023-01-02,2023-04-04
+CH001103,P0001552,Deviation,Supplier Managed,Approved,2021-01-23,
+CH001104,P0001914,ECR,Systems,Draft,2026-09-10,
+CH001105,P0002819,Concession,Supplier Managed,Draft,2024-10-10,
+CH001106,P0004935,Deviation,Tooling,Implemented,2022-02-11,2022-03-02
+CH001107,P0001241,ECN,Aftermarket,Implemented,2024-02-27,2024-06-26
+CH001108,P0002490,ECR,Aftermarket,Approved,2020-12-26,
+CH001109,P0003640,ECR,Supplier Managed,Draft,2024-12-07,
+CH001110,P0004120,ECN,Supplier Managed,In Review,2021-09-08,
+CH001111,P0002132,Concession,Systems,Draft,2024-09-07,
+CH001112,P0003777,Concession,Structures,Approved,2024-11-12,
+CH001113,P0004542,Deviation,Structures,Rejected,2023-12-05,2024-06-02
+CH001114,P0000016,Concession,Aftermarket,Implemented,2025-12-15,2026-02-01
+CH001115,P0004181,Concession,Propulsion,Approved,2023-05-31,
+CH001116,P0001516,ECR,Tooling,Implemented,2023-03-13,2023-03-20
+CH001117,P0003920,Deviation,Systems,Implemented,2026-03-04,2026-04-06
+CH001118,P0000686,Concession,Systems,Implemented,2022-05-16,2022-08-04
+CH001119,P0002970,ECR,Structures,Approved,2022-11-23,
+CH001120,P0002689,ECR,Mechanical Design,Rejected,2024-09-26,2025-02-06
+CH001121,P0004672,ECR,Aftermarket,Rejected,2022-11-08,2023-04-09
+CH001122,P0000894,ECR,Systems,Draft,2021-11-10,
+CH001123,P0004775,ECR,Mechanical Design,In Review,2025-01-23,
+CH001124,P0000247,Concession,Tooling,Rejected,2021-12-18,2022-05-19
+CH001125,P0004596,ECN,Structures,Rejected,2023-06-07,2023-08-18
+CH001126,P0004922,ECR,Propulsion,In Review,2020-10-27,
+CH001127,P0003891,ECR,Aftermarket,Implemented,2020-10-29,2021-04-18
+CH001128,P0004874,Concession,Mechanical Design,In Review,2025-12-30,
+CH001129,P0002576,ECR,Tooling,Approved,2022-12-11,
+CH001130,P0004128,ECN,Tooling,Rejected,2024-12-29,2025-06-11
+CH001131,P0002050,Deviation,Propulsion,In Review,2021-04-21,
+CH001132,P0005025,Concession,Structures,In Review,2024-01-03,
+CH001133,P0002658,Concession,Propulsion,In Review,2022-11-04,
+CH001134,P0000079,Deviation,Supplier Managed,In Review,2026-07-18,
+CH001135,P0002249,Deviation,Systems,Draft,2022-04-15,
+CH001136,P0001614,ECN,Systems,In Review,2026-07-08,
+CH001137,P0000299,ECR,Supplier Managed,In Review,2021-11-01,
+CH001138,P0004210,ECN,Systems,Rejected,2023-04-08,2023-07-18
+CH001139,P0002023,Deviation,Propulsion,Implemented,2025-04-10,2025-03-04
+CH001140,P0004893,Deviation,Systems,Draft,2021-12-11,
+CH001141,P0002317,Concession,Supplier Managed,Draft,2025-06-03,
+CH001142,P0004805,Concession,Aftermarket,Implemented,2024-06-28,2024-08-05
+CH001143,P0002928,Deviation,Systems,In Review,2022-07-01,
+CH001144,P0005196,Deviation,Structures,Rejected,2021-08-11,2022-01-25
+CH001145,P0000347,Deviation,Aftermarket,Implemented,2024-04-09,2024-02-23
+CH001146,P0002752,Concession,Systems,In Review,2026-09-17,
+CH001147,P0003528,ECR,Mechanical Design,Implemented,2024-01-05,2024-02-02
+CH001148,P0000475,Concession,Aftermarket,Implemented,2026-02-10,2026-03-07
+CH001149,P0002133,ECR,Propulsion,Approved,2025-03-21,
+CH001150,P0000424,ECN,Systems,Draft,2024-11-17,
+CH001151,P0000683,Deviation,Supplier Managed,Implemented,2024-12-19,2025-03-09
+CH001152,P0000901,Deviation,Supplier Managed,Implemented,2021-03-13,2021-07-10
+CH001153,P0000186,Deviation,Structures,Draft,2022-06-04,
+CH001154,P0000704,ECN,Propulsion,Approved,2023-07-26,
+CH001155,P0002138,Concession,Tooling,Rejected,2021-12-10,2022-02-10
+CH001156,P0005007,ECR,Mechanical Design,In Review,2022-06-29,
+CH001157,P0004439,Deviation,Tooling,Implemented,2021-04-17,2021-08-12
+CH001158,P0004994,ECR,Tooling,Approved,2026-07-04,
+CH001159,P0001221,ECR,Supplier Managed,Rejected,2022-10-09,2023-03-11
+CH001160,P0003515,ECR,Systems,Implemented,2025-12-31,2026-06-02
+CH001161,P0002144,Concession,Supplier Managed,In Review,2026-10-11,
+CH001162,P0003355,Deviation,Propulsion,Implemented,2026-09-16,2026-10-27
+CH001163,P0002719,ECR,Mechanical Design,Implemented,2021-10-04,2021-11-06
+CH001164,P0002765,ECR,Systems,Implemented,2026-10-14,2026-10-22
+CH001165,P0005108,ECR,Tooling,Draft,2024-06-26,
+CH001166,P0000561,ECR,Tooling,Rejected,2026-05-31,2026-09-14
+CH001167,P0003801,Concession,Propulsion,Draft,2023-09-05,
+CH001168,P0002468,Concession,Mechanical Design,In Review,2021-01-17,
+CH001169,P0003240,ECN,Propulsion,Rejected,2021-03-14,2021-04-19
+CH001170,P0003074,ECN,Systems,Implemented,2024-03-08,2024-05-22
+CH001171,P0003668,Deviation,Propulsion,Draft,2024-09-18,
+CH001172,P0000768,ECN,Tooling,In Review,2025-09-13,
+CH001173,P0004674,ECN,Mechanical Design,Approved,2023-04-01,
+CH001174,P0002087,Concession,Mechanical Design,Implemented,2021-08-29,2022-01-08
+CH001175,P0004834,ECN,Structures,Draft,2025-10-08,
+CH001176,P0000980,ECR,Propulsion,Approved,2026-03-28,
+CH001177,P0002422,ECR,Supplier Managed,Approved,2021-09-08,
+CH001178,P0001458,Concession,Structures,Approved,2022-12-22,
+CH001179,P0000928,ECR,Supplier Managed,Implemented,2025-05-10,2025-07-03
+CH001180,P0003811,Concession,Propulsion,Draft,2021-05-07,
+CH001181,P0003606,ECR,Tooling,In Review,2020-11-04,
+CH001182,P0002817,Deviation,Mechanical Design,Implemented,2022-04-22,2022-05-14
+CH001183,P0003284,ECR,Mechanical Design,Approved,2026-07-29,
+CH001184,P0002444,ECR,Mechanical Design,Rejected,2023-05-23,2023-07-16
+CH001185,P0001568,Deviation,Tooling,In Review,2021-06-24,
+CH001186,P0004704,ECN,Mechanical Design,In Review,2024-08-19,
+CH001187,P0001063,ECN,Mechanical Design,Approved,2026-02-25,
+CH001188,P0004773,ECR,Mechanical Design,Approved,2025-09-05,
+CH001189,P0000737,ECN,Propulsion,Implemented,2024-11-13,2025-04-09
+CH001190,P0004905,Deviation,Systems,Rejected,2025-10-17,2026-04-05
+CH001191,P0004432,ECR,Propulsion,Rejected,2025-10-12,2025-11-21
+CH001192,P0004468,ECN,Structures,Rejected,2023-07-07,2023-10-15
+CH001193,P0004033,ECN,Aftermarket,Draft,2026-09-03,
+CH001194,P0001784,ECR,Mechanical Design,Draft,2026-05-06,
+CH001195,P0002685,ECR,Aftermarket,Rejected,2024-06-28,2024-08-13
+CH001196,P0002283,ECN,Mechanical Design,In Review,2024-02-02,
+CH001197,P0000777,ECN,Aftermarket,In Review,2022-02-18,
+CH001198,P0004811,ECR,Structures,In Review,2026-09-15,
+CH001199,P0003836,ECR,Tooling,Approved,2024-09-27,
+CH001200,P0002035,ECN,Systems,Approved,2024-05-29,
+CH001201,P0002628,Deviation,Tooling,In Review,2021-11-12,
+CH001202,P0001153,Deviation,Structures,In Review,2024-02-09,
+CH001203,P0001425,ECR,Propulsion,Rejected,2023-03-26,2023-05-14
+CH001204,P0000202,Deviation,Tooling,Draft,2026-08-03,
+CH001205,P0004566,Deviation,Tooling,Rejected,2021-02-24,2021-07-26
+CH001206,P0000677,Concession,Tooling,Rejected,2021-05-29,2021-11-24
+CH001207,P0002000,ECN,Propulsion,In Review,2025-12-28,
+CH001208,P0000819,ECR,Propulsion,Approved,2023-07-24,
+CH001209,P0000516,Deviation,Supplier Managed,Rejected,2023-04-02,2023-07-09
+CH001210,P0005149,ECN,Structures,Approved,2023-04-08,
+CH001211,P0002339,ECR,Structures,Implemented,2025-07-29,2025-12-30
+CH001212,P0005042,Deviation,Propulsion,Draft,2024-01-17,
+CH001213,P0003009,Deviation,Propulsion,Implemented,2021-11-21,2022-02-02
+CH001214,P0000316,ECR,Aftermarket,Implemented,2023-01-04,2023-05-29
+CH001215,P0002672,ECR,Systems,Draft,2026-04-02,
+CH001216,P0003245,ECN,Structures,Draft,2020-11-30,
+CH001217,P0000791,ECN,Tooling,Rejected,2021-03-20,2021-02-12
+CH001218,P0001867,Concession,Mechanical Design,Implemented,2022-08-30,2022-10-10
+CH001219,P0003598,Concession,Propulsion,Approved,2022-01-24,
+CH001220,P0001080,ECN,Propulsion,Approved,2025-05-18,
+CH001221,P0000303,Concession,Aftermarket,Rejected,2026-10-08,2026-10-04
+CH001222,P0003775,Deviation,Structures,Approved,2021-02-23,
+CH001223,P0000078,ECN,Supplier Managed,In Review,2022-07-29,
+CH001224,P0005180,ECR,Mechanical Design,Approved,2023-02-26,
+CH001225,P0001370,ECR,Supplier Managed,In Review,2022-10-26,
+CH001226,P0000954,ECN,Supplier Managed,Draft,2021-05-20,
+CH001227,P0002295,ECR,Tooling,Rejected,2023-10-22,2023-12-24
+CH001228,P0001140,ECR,Supplier Managed,Rejected,2024-10-17,2024-11-27
+CH001229,P0003038,ECR,Mechanical Design,Draft,2022-09-09,
+CH001230,P0000003,Deviation,Mechanical Design,Rejected,2021-04-22,2021-04-03
+CH001231,P0004925,ECN,Structures,Implemented,2025-03-02,2025-06-08
+CH001232,P0002215,ECR,Mechanical Design,Draft,2025-04-03,
+CH001233,P0002870,ECN,Tooling,Approved,2021-11-30,
+CH001234,P0003297,ECN,Supplier Managed,Draft,2025-03-21,
+CH001235,P0002148,Concession,Tooling,Implemented,2021-10-20,2022-01-09
+CH001236,P0004917,Deviation,Systems,Implemented,2021-01-01,2021-03-09
+CH001237,P0004976,Deviation,Tooling,Approved,2022-05-17,
+CH001238,P0004662,ECR,Propulsion,Implemented,2025-10-13,2025-12-13
+CH001239,P0003677,Concession,Aftermarket,Draft,2021-02-24,
+CH001240,P0003425,Deviation,Tooling,Draft,2024-01-22,
+CH001241,P0000598,Deviation,Systems,Draft,2026-01-10,
+CH001242,P0003421,ECN,Supplier Managed,Draft,2024-09-20,
+CH001243,P0000903,Concession,Propulsion,Approved,2024-08-02,
+CH001244,P0001824,ECR,Structures,Approved,2026-09-18,
+CH001245,P0003176,Concession,Supplier Managed,Approved,2024-03-25,
+CH001246,P0000518,Concession,Systems,Rejected,2024-09-07,2025-01-19
+CH001247,P0001714,ECN,Structures,Approved,2022-05-05,
+CH001248,P0002889,ECR,Supplier Managed,Rejected,2020-11-30,2021-05-19
+CH001249,P0003807,Deviation,Aftermarket,In Review,2022-02-09,
+CH001250,P0003445,Deviation,Systems,Implemented,2021-12-09,2022-01-17
+CH001251,P0003504,Concession,Mechanical Design,Approved,2021-02-04,
+CH001252,P0004679,ECN,Systems,Rejected,2024-07-23,2024-12-17
+CH001253,P0002231,Concession,Structures,Rejected,2021-07-16,2021-11-14
+CH001254,P0005169,ECN,Structures,In Review,2025-03-28,
+CH001255,P0001290,Concession,Tooling,Rejected,2025-05-27,2025-06-10
+CH001256,P0005094,Concession,Tooling,Draft,2025-03-25,
+CH001257,P0001813,ECR,Mechanical Design,Rejected,2025-06-14,2025-07-10
+CH001258,P0004463,Concession,Tooling,Draft,2022-04-12,
+CH001259,P0001436,ECN,Supplier Managed,Draft,2024-04-23,
+CH001260,P0000147,ECR,Tooling,Approved,2025-07-10,
+CH001261,P0005000,ECR,Aftermarket,Draft,2023-08-12,
+CH001262,P0004555,ECN,Structures,Implemented,2024-05-12,2024-10-04
+CH001263,P0001154,ECN,Mechanical Design,Approved,2026-09-10,
+CH001264,P0001034,ECR,Propulsion,Implemented,2026-07-25,2026-10-27
+CH001265,P0004285,Concession,Mechanical Design,Approved,2026-05-29,
+CH001266,P0003333,ECN,Propulsion,Approved,2022-11-01,
+CH001267,P0000736,Concession,Aftermarket,Draft,2026-07-09,
+CH001268,P0001220,Concession,Systems,Rejected,2021-05-31,2021-05-07
+CH001269,P0003053,Concession,Supplier Managed,Rejected,2022-09-30,2023-01-05
+CH001270,P0002186,Deviation,Tooling,Rejected,2025-12-30,2026-05-03
+CH001271,P0001351,ECN,Aftermarket,Rejected,2020-10-28,2021-01-31
+CH001272,P0004928,ECN,Propulsion,Draft,2025-06-29,
+CH001273,P0003092,Deviation,Propulsion,Implemented,2022-06-21,2022-06-25
+CH001274,P0005071,Concession,Propulsion,Rejected,2025-09-06,2025-10-19
+CH001275,P0002519,ECR,Supplier Managed,Rejected,2022-06-19,2022-08-06
+CH001276,P0004150,ECR,Structures,Rejected,2025-12-27,2026-04-12
+CH001277,P0004014,ECN,Structures,Rejected,2022-09-16,2023-02-03
+CH001278,P0001266,Deviation,Mechanical Design,Implemented,2026-09-15,2027-01-08
+CH001279,P0001014,Deviation,Propulsion,Approved,2024-10-29,
+CH001280,P0001396,Concession,Aftermarket,Implemented,2021-08-06,2021-11-28
+CH001281,P0004378,ECN,Structures,Implemented,2025-01-31,2025-03-19
+CH001282,P0002722,Deviation,Mechanical Design,Implemented,2026-04-07,2026-07-08
+CH001283,P0004970,ECN,Mechanical Design,Implemented,2023-10-09,2024-01-12
+CH001284,P0000465,Deviation,Systems,In Review,2023-10-31,
+CH001285,P0004437,ECN,Mechanical Design,Draft,2022-08-05,
+CH001286,P0000383,Deviation,Tooling,In Review,2024-11-20,
+CH001287,P0002155,ECN,Supplier Managed,Implemented,2026-07-21,2026-10-26
+CH001288,P0000365,Concession,Propulsion,Rejected,2023-05-30,2023-10-23
+CH001289,P0004038,Deviation,Systems,Rejected,2022-01-14,2022-02-12
+CH001290,P0004206,Concession,Aftermarket,Draft,2024-11-23,
+CH001291,P0003370,Concession,Tooling,Approved,2026-01-17,
+CH001292,P0003704,Deviation,Supplier Managed,Draft,2026-02-19,
+CH001293,P0000374,Concession,Tooling,Approved,2022-03-22,
+CH001294,P0000886,ECN,Tooling,Rejected,2024-10-01,2025-01-08
+CH001295,P0003855,Deviation,Tooling,Approved,2023-05-26,
+CH001296,P0000398,Deviation,Structures,Draft,2024-11-25,
+CH001297,P0005180,ECR,Mechanical Design,Rejected,2021-07-15,2021-10-17
+CH001298,P0001587,ECR,Propulsion,Draft,2025-08-18,
+CH001299,P0001954,Concession,Systems,Approved,2026-08-23,
+CH001300,P0000677,Deviation,Tooling,Rejected,2023-12-02,2024-03-16
+CH001301,P0004468,Concession,Aftermarket,Approved,2025-08-15,
+CH001302,P0000254,Deviation,Aftermarket,Approved,2022-12-25,
+CH001303,P0004447,Deviation,Mechanical Design,Rejected,2025-03-25,2025-05-30
+CH001304,P0003625,Concession,Mechanical Design,Implemented,2023-01-22,2023-01-29
+CH001305,P0000423,ECR,Structures,In Review,2023-05-21,
+CH001306,P0004149,ECN,Propulsion,Draft,2021-07-24,
+CH001307,P0000355,Concession,Aftermarket,Implemented,2021-06-14,2021-12-11
+CH001308,P0003882,Concession,Propulsion,Draft,2022-09-10,
+CH001309,P0000166,Deviation,Propulsion,Implemented,2023-11-19,2023-09-20
+CH001310,P0000002,Deviation,Mechanical Design,In Review,2024-03-01,
+CH001311,P0000076,ECR,Mechanical Design,Rejected,2021-07-03,2021-07-15
+CH001312,P0003428,ECR,Tooling,In Review,2026-09-29,
+CH001313,P0000510,ECR,Mechanical Design,In Review,2025-04-18,
+CH001314,P0004572,Concession,Mechanical Design,Implemented,2020-11-27,2021-04-16
+CH001315,P0002523,ECN,Systems,Rejected,2021-04-08,2021-04-24
+CH001316,P0003389,ECN,Tooling,Implemented,2022-07-01,2022-12-14
+CH001317,P0003285,Deviation,Structures,Approved,2023-12-19,
+CH001318,P0000273,Concession,Aftermarket,Approved,2021-03-21,
+CH001319,P0002877,ECN,Systems,In Review,2024-02-10,
+CH001320,P0000513,ECN,Aftermarket,In Review,2020-12-27,
+CH001321,P0000213,Concession,Supplier Managed,In Review,2024-06-25,
+CH001322,P0002035,Deviation,Aftermarket,Approved,2025-06-15,
+CH001323,P0002993,Concession,Mechanical Design,In Review,2023-03-30,
+CH001324,P0003849,ECR,Mechanical Design,In Review,2026-07-14,
+CH001325,P0002508,Deviation,Mechanical Design,Implemented,2024-08-29,2025-01-01
+CH001326,P0000959,Deviation,Tooling,Implemented,2025-07-19,2025-08-29
+CH001327,P0002506,Deviation,Propulsion,Rejected,2024-06-20,2024-11-01
+CH001328,P0004691,ECN,Propulsion,Implemented,2021-09-15,2022-02-28
+CH001329,P0002638,Concession,Aftermarket,Implemented,2021-11-30,2022-05-25
+CH001330,P0000525,Deviation,Tooling,Implemented,2022-09-25,2023-02-11
+CH001331,P0002691,ECR,Mechanical Design,Approved,2022-02-17,
+CH001332,P0003730,ECR,Mechanical Design,Approved,2024-02-18,
+CH001333,P0000770,Concession,Systems,Draft,2023-12-24,
+CH001334,P0004800,ECR,Mechanical Design,Implemented,2023-05-14,2023-08-10
+CH001335,P0003448,ECR,Systems,Rejected,2022-09-23,2023-03-05
+CH001336,P0001722,Deviation,Structures,Rejected,2022-02-28,2022-07-13
+CH001337,P0000741,Concession,Mechanical Design,Draft,2025-11-01,
+CH001338,P0004995,Deviation,Supplier Managed,Implemented,2021-11-28,2021-12-23
+CH001339,P0002847,ECN,Structures,In Review,2024-02-25,
+CH001340,P0001942,Concession,Mechanical Design,Approved,2022-05-11,
+CH001341,P0000236,Concession,Structures,In Review,2024-03-10,
+CH001342,P0002252,ECR,Aftermarket,Approved,2024-06-14,
+CH001343,P0002597,ECN,Tooling,Rejected,2020-12-14,2021-05-14
+CH001344,P0000945,Deviation,Supplier Managed,In Review,2026-08-19,
+CH001345,P0003491,ECN,Mechanical Design,Rejected,2024-04-03,2024-09-17
+CH001346,P0004984,Concession,Propulsion,In Review,2026-06-24,
+CH001347,P0000930,ECN,Systems,Approved,2022-05-09,
+CH001348,P0002473,ECR,Mechanical Design,In Review,2024-07-31,
+CH001349,P0004894,Concession,Structures,Implemented,2022-10-26,2022-12-25
+CH001350,P0002414,Deviation,Aftermarket,Approved,2023-04-11,
+CH001351,P0003666,Deviation,Supplier Managed,Draft,2026-04-06,
+CH001352,P0002961,ECN,Aftermarket,Approved,2024-05-24,
+CH001353,P0001976,Deviation,Mechanical Design,In Review,2022-09-23,
+CH001354,P0004116,Deviation,Propulsion,Implemented,2022-03-04,2022-03-15
+CH001355,P0004311,ECN,Propulsion,In Review,2024-03-29,
+CH001356,P0004584,ECN,Propulsion,Rejected,2026-05-24,2026-07-04
+CH001357,P0003706,Concession,Aftermarket,Rejected,2024-10-09,2025-02-21
+CH001358,P0004542,ECR,Mechanical Design,Implemented,2021-04-24,2021-09-21
+CH001359,P0001893,ECR,Structures,Draft,2024-10-23,
+CH001360,P0004762,ECN,Systems,Rejected,2025-09-19,2025-11-01
+CH001361,P0001776,Deviation,Structures,Implemented,2026-06-07,2026-11-29
+CH001362,P0001837,Concession,Supplier Managed,Implemented,2026-06-22,2026-08-07
+CH001363,P0004302,Deviation,Tooling,Implemented,2023-08-08,2023-09-18
+CH001364,P0004814,ECR,Mechanical Design,Approved,2026-06-15,
+CH001365,P0003990,Deviation,Aftermarket,Approved,2023-09-17,
+CH001366,P0004356,Concession,Aftermarket,In Review,2025-12-19,
+CH001367,P0003007,ECR,Tooling,Draft,2026-09-19,
+CH001368,P0002565,ECR,Mechanical Design,Approved,2025-12-16,
+CH001369,P0002403,Concession,Supplier Managed,In Review,2024-07-22,
+CH001370,P0000696,ECR,Tooling,Rejected,2021-08-26,2021-12-19
+CH001371,P0001626,ECR,Mechanical Design,Draft,2021-04-02,
+CH001372,P0001095,Concession,Structures,Approved,2023-07-28,
+CH001373,P0001416,Concession,Systems,Implemented,2021-12-01,2022-05-15
+CH001374,P0005116,Deviation,Supplier Managed,Approved,2022-04-06,
+CH001375,P0003475,ECR,Tooling,Rejected,2026-05-04,2026-07-07
+CH001376,P0004979,Deviation,Tooling,In Review,2021-04-14,
+CH001377,P0004460,ECN,Supplier Managed,Approved,2024-12-15,
+CH001378,P0002423,Concession,Tooling,Draft,2026-06-21,
+CH001379,P0003847,ECR,Mechanical Design,Implemented,2021-12-12,2022-01-26
+CH001380,P0004212,Concession,Supplier Managed,In Review,2022-02-16,
+CH001381,P0003969,ECN,Tooling,Draft,2022-03-22,
+CH001382,P0003553,Concession,Propulsion,Implemented,2023-07-27,2023-07-30
+CH001383,P0002059,Concession,Aftermarket,Approved,2026-06-26,
+CH001384,P0000713,Concession,Systems,Rejected,2024-01-17,2024-03-22
+CH001385,P0001065,ECR,Propulsion,In Review,2023-01-13,
+CH001386,P0004536,ECR,Propulsion,Approved,2022-10-15,
+CH001387,P0001777,Deviation,Supplier Managed,Implemented,2022-08-13,2022-10-27
+CH001388,P0003151,ECN,Supplier Managed,Approved,2026-07-15,
+CH001389,P0002176,ECN,Supplier Managed,Rejected,2022-04-01,2022-08-07
+CH001390,P0000428,Deviation,Mechanical Design,In Review,2024-01-25,
+CH001391,P0000454,ECR,Structures,Approved,2022-08-24,
+CH001392,P0001727,Deviation,Structures,Rejected,2021-04-12,2021-09-23
+CH001393,P0003702,ECN,Structures,In Review,2021-06-15,
+CH001394,P0003146,ECN,Structures,Rejected,2020-12-15,2021-02-01
+CH001395,P0003865,Deviation,Mechanical Design,Implemented,2022-08-20,2022-09-09
+CH001396,P0000712,ECN,Tooling,Approved,2024-12-05,
+CH001397,P0000263,ECR,Systems,Rejected,2022-10-24,2023-02-19
+CH001398,P0003517,ECR,Systems,In Review,2021-07-30,
+CH001399,P0001270,ECN,Aftermarket,In Review,2022-09-23,
+CH001400,P0002373,Deviation,Mechanical Design,Implemented,2026-06-24,2026-09-06
+CH001401,P0003827,Concession,Tooling,In Review,2022-08-14,
+CH001402,P0003433,Concession,Mechanical Design,Implemented,2020-11-05,2021-03-24
+CH001403,P0002365,ECN,Supplier Managed,Implemented,2025-10-30,2026-01-15
+CH001404,P0004045,Concession,Mechanical Design,Implemented,2020-11-09,2020-11-21
+CH001405,P0004692,ECN,Tooling,Approved,2023-05-31,
+CH001406,P0000722,ECN,Aftermarket,In Review,2023-06-14,
+CH001407,P0000958,ECR,Aftermarket,Approved,2026-06-06,
+CH001408,P0002845,Deviation,Systems,Draft,2025-08-21,
+CH001409,P0000829,ECN,Propulsion,Draft,2023-01-21,
+CH001410,P0003687,Deviation,Aftermarket,Approved,2022-05-23,
+CH001411,P0004049,Deviation,Propulsion,Implemented,2023-12-20,2024-04-03
+CH001412,P0000198,Deviation,Propulsion,Approved,2024-06-20,
+CH001413,P0004660,Deviation,Systems,Draft,2024-05-01,
+CH001414,P0002755,Deviation,Aftermarket,In Review,2023-09-03,
+CH001415,P0000073,Deviation,Tooling,Approved,2022-05-25,
+CH001416,P0002953,Deviation,Supplier Managed,Draft,2021-07-10,
+CH001417,P0003062,ECR,Tooling,Implemented,2023-10-17,2024-04-13
+CH001418,P0001766,Deviation,Supplier Managed,Implemented,2024-02-21,2024-05-28
+CH001419,P0002461,ECN,Systems,Approved,2022-09-26,
+CH001420,P0001870,ECN,Propulsion,Rejected,2026-06-09,2026-06-17
+CH001421,P0004667,Concession,Tooling,In Review,2020-11-06,
+CH001422,P0002644,Concession,Aftermarket,Rejected,2024-01-24,2024-02-02
+CH001423,P0001620,ECN,Supplier Managed,Rejected,2025-07-29,2025-11-24
+CH001424,P0000294,ECR,Aftermarket,In Review,2024-09-06,
+CH001425,P0000698,ECR,Tooling,Implemented,2025-11-29,2025-12-25
+CH001426,P0000318,ECN,Supplier Managed,Implemented,2025-10-30,2025-12-23
+CH001427,P0002817,ECN,Structures,Implemented,2026-08-18,2026-12-07
+CH001428,P0004503,Deviation,Supplier Managed,Rejected,2021-09-04,2022-02-02
+CH001429,P0003630,ECN,Mechanical Design,Rejected,2026-01-11,2026-02-10
+CH001430,P0004563,ECN,Tooling,Rejected,2023-10-18,2024-01-31
+CH001431,P0002826,ECR,Tooling,Rejected,2023-06-17,2023-09-19
+CH001432,P0000239,ECN,Structures,Draft,2024-09-07,
+CH001433,P0001934,ECR,Aftermarket,Implemented,2025-05-08,2025-08-31
+CH001434,P0004448,ECR,Aftermarket,Approved,2020-11-21,
+CH001435,P0003969,ECN,Supplier Managed,In Review,2021-11-06,
+CH001436,P0003528,ECR,Mechanical Design,Approved,2026-05-06,
+CH001437,P0000730,Deviation,Propulsion,Draft,2021-09-19,
+CH001438,P0005175,ECR,Tooling,In Review,2025-06-23,
+CH001439,P0004176,Deviation,Aftermarket,Draft,2021-07-19,
+CH001440,P0003739,ECN,Supplier Managed,Approved,2024-12-20,
+CH001441,P0001216,Deviation,Mechanical Design,Rejected,2023-05-02,2023-05-30
+CH001442,P0004024,Concession,Propulsion,Approved,2021-12-26,
+CH001443,P0004491,Deviation,Propulsion,Approved,2025-04-14,
+CH001444,P0005038,ECR,Mechanical Design,Approved,2021-10-17,
+CH001445,P0002622,ECN,Aftermarket,Approved,2022-02-05,
+CH001446,P0003734,ECN,Tooling,Draft,2025-10-14,
+CH001447,P0001538,ECR,Supplier Managed,Approved,2020-11-27,
+CH001448,P0004132,Concession,Structures,In Review,2021-08-07,
+CH001449,P0000597,ECR,Tooling,Rejected,2020-11-24,2021-01-14
+CH001450,P0003948,ECN,Structures,Draft,2025-06-04,
+CH001451,P0004009,ECR,Propulsion,Rejected,2024-09-08,2025-02-15
+CH001452,P0000931,Concession,Propulsion,Implemented,2026-03-03,2026-04-15
+CH001453,P0000647,Concession,Systems,Draft,2024-01-22,
+CH001454,P0001605,Deviation,Structures,Rejected,2024-05-30,2024-08-28
+CH001455,P0003876,ECN,Aftermarket,Implemented,2023-11-03,2024-04-10
+CH001456,P0001594,Concession,Systems,Rejected,2021-03-02,2021-08-04
+CH001457,P0003515,ECR,Propulsion,Rejected,2024-05-31,2024-08-31
+CH001458,P0002587,ECR,Mechanical Design,Implemented,2023-01-27,2023-07-20
+CH001459,P0000377,ECN,Propulsion,Rejected,2024-03-31,2024-05-04
+CH001460,P0003254,Deviation,Tooling,In Review,2021-02-15,
+CH001461,P0003902,Concession,Mechanical Design,Approved,2025-05-13,
+CH001462,P0001148,Concession,Systems,Approved,2021-04-20,
+CH001463,P0002544,ECN,Structures,Implemented,2022-12-11,2023-03-12
+CH001464,P0004551,ECR,Mechanical Design,Implemented,2024-03-31,2024-08-04
+CH001465,P0003532,ECR,Propulsion,In Review,2024-05-25,
+CH001466,P0004638,ECN,Structures,Rejected,2024-02-23,2024-06-03
+CH001467,P0004674,Concession,Tooling,Rejected,2026-08-02,2026-09-22
+CH001468,P0000919,Concession,Propulsion,Implemented,2023-10-19,2024-03-23
+CH001469,P0000663,Deviation,Structures,Rejected,2024-06-09,2024-11-23
+CH001470,P0000140,ECN,Systems,Approved,2023-09-21,
+CH001471,P0001222,Deviation,Tooling,Draft,2023-01-06,
+CH001472,P0002092,ECN,Propulsion,Rejected,2026-07-15,2026-08-15
+CH001473,P0002690,ECR,Structures,In Review,2023-10-14,
+CH001474,P0002456,Deviation,Tooling,Approved,2025-01-29,
+CH001475,P0003759,ECN,Mechanical Design,Implemented,2022-07-04,2022-08-31
+CH001476,P0003573,ECN,Aftermarket,Draft,2023-09-18,
+CH001477,P0002181,ECR,Aftermarket,In Review,2023-10-23,
+CH001478,P0002373,ECR,Mechanical Design,Draft,2024-05-29,
+CH001479,P0003233,Concession,Mechanical Design,Draft,2025-03-01,
+CH001480,P0001035,Deviation,Mechanical Design,Implemented,2026-09-17,2026-12-31
+CH001481,P0004584,ECN,Supplier Managed,In Review,2026-07-09,
+CH001482,P0000254,ECN,Propulsion,Draft,2023-03-28,
+CH001483,P0004265,Deviation,Systems,In Review,2023-04-09,
+CH001484,P0004047,ECR,Supplier Managed,Approved,2022-10-25,
+CH001485,P0004066,ECN,Mechanical Design,Implemented,2022-05-31,2022-11-23
+CH001486,P0004010,ECR,Supplier Managed,Approved,2022-09-13,
+CH001487,P0001903,ECR,Propulsion,Implemented,2024-11-08,2025-03-16
+CH001488,P0003326,ECN,Aftermarket,In Review,2024-07-03,
+CH001489,P0004871,ECR,Systems,Rejected,2025-10-21,2026-01-29
+CH001490,P0004313,Deviation,Systems,Draft,2025-03-22,
+CH001491,P0001310,ECN,Systems,Rejected,2025-05-27,2025-07-11
+CH001492,P0004804,Deviation,Propulsion,Rejected,2025-06-08,2025-06-29
+CH001493,P0001701,ECR,Mechanical Design,Implemented,2022-01-11,2022-06-03
+CH001494,P0005153,Deviation,Propulsion,Draft,2022-12-30,
+CH001495,P0000668,Deviation,Aftermarket,Approved,2024-04-12,
+CH001496,P0003975,Deviation,Aftermarket,Rejected,2025-05-08,2025-10-06
+CH001497,P0002600,ECN,Tooling,Rejected,2022-06-27,2022-10-24
+CH001498,P0004475,ECN,Tooling,Draft,2022-12-21,
+CH001499,P0000711,Deviation,Tooling,In Review,2021-01-08,
+CH001500,P0001266,ECR,Aftermarket,In Review,2026-05-03,
+CH001501,P0003093,ECN,Systems,Implemented,2023-03-01,2023-03-29
+CH001502,P0002368,Concession,Systems,Implemented,2026-06-18,2026-11-18
+CH001503,P0000128,ECN,Mechanical Design,Draft,2021-10-17,
+CH001504,P0003330,ECR,Mechanical Design,Rejected,2024-02-14,2024-03-16
+CH001505,P0003515,ECN,Aftermarket,In Review,2022-12-09,
+CH001506,P0000510,ECR,Structures,Implemented,2024-12-16,2025-06-01
+CH001507,P0004664,Concession,Structures,Implemented,2025-05-22,2025-06-21
+CH001508,P0001966,ECR,Systems,Implemented,2022-08-10,2023-01-27
+CH001509,P0004305,ECR,Supplier Managed,Implemented,2025-05-17,2025-10-24
+CH001510,P0003631,ECN,Aftermarket,In Review,2023-02-09,
+CH001511,P0001458,ECR,Aftermarket,Implemented,2025-05-17,2025-05-15
+CH001512,P0003741,Deviation,Mechanical Design,In Review,2021-08-01,
+CH001513,P0004806,ECR,Tooling,Rejected,2022-08-07,2022-10-02
+CH001514,P0003097,Concession,Systems,Approved,2025-10-10,
+CH001515,P0004369,ECN,Systems,Draft,2024-08-14,
+CH001516,P0004046,ECN,Mechanical Design,Approved,2020-12-05,
+CH001517,P0002157,ECR,Supplier Managed,Rejected,2021-11-19,2021-12-25
+CH001518,P0004178,ECN,Structures,Approved,2025-10-28,
+CH001519,P0001773,Deviation,Propulsion,Rejected,2021-12-05,2022-01-31
+CH001520,P0000255,Concession,Tooling,In Review,2026-01-22,
+CH001521,P0000896,Deviation,Tooling,Rejected,2021-07-11,2021-07-18
+CH001522,P0002267,ECN,Propulsion,In Review,2026-03-30,
+CH001523,P0000407,Deviation,Aftermarket,In Review,2022-10-04,
+CH001524,P0000863,Deviation,Supplier Managed,Rejected,2020-12-07,2020-12-16
+CH001525,P0004424,Concession,Systems,Implemented,2021-08-28,2021-11-11
+CH001526,P0003337,Concession,Propulsion,Draft,2022-03-31,
+CH001527,P0001956,Deviation,Mechanical Design,Implemented,2023-07-24,2023-10-05
+CH001528,P0002039,Deviation,Aftermarket,In Review,2024-12-29,
+CH001529,P0000506,ECN,Supplier Managed,In Review,2026-08-28,
+CH001530,P0003229,Concession,Structures,Draft,2021-04-15,
+CH001531,P0000574,Concession,Structures,Approved,2022-01-01,
+CH001532,P0001990,Deviation,Systems,Implemented,2026-05-03,2026-06-15
+CH001533,P0003430,Deviation,Propulsion,Implemented,2025-08-24,2026-02-03
+CH001534,P0005183,Concession,Structures,Approved,2026-09-18,
+CH001535,P0001969,Deviation,Mechanical Design,In Review,2020-11-26,
+CH001536,P0000385,ECR,Structures,Implemented,2023-10-21,2024-03-01
+CH001537,P0002862,ECR,Aftermarket,Implemented,2022-04-29,2022-08-13
+CH001538,P0002019,ECR,Propulsion,Draft,2025-03-23,
+CH001539,P0003347,ECN,Supplier Managed,Rejected,2024-11-15,2025-02-13
+CH001540,P0001084,ECN,Aftermarket,In Review,2025-06-19,
+CH001541,P0005198,Deviation,Tooling,Rejected,2022-03-12,2022-05-20
+CH001542,P0002090,ECN,Supplier Managed,Implemented,2026-04-04,2026-06-06
+CH001543,P0004078,ECR,Systems,Rejected,2023-08-06,2024-01-04
+CH001544,P0000305,Concession,Mechanical Design,Implemented,2023-07-25,2023-09-22
+CH001545,P0003826,ECR,Propulsion,Implemented,2023-04-29,2023-10-19
+CH001546,P0003901,ECR,Tooling,Rejected,2022-02-26,2022-07-08
+CH001547,P0000542,Concession,Propulsion,Rejected,2021-09-20,2022-01-20
+CH001548,P0000720,ECR,Structures,Approved,2023-01-25,
+CH001549,P0001349,Deviation,Systems,Implemented,2024-08-21,2024-12-26
+CH001550,P0001080,ECR,Tooling,Approved,2025-11-14,
+CH001551,P0001461,Concession,Mechanical Design,Rejected,2025-10-13,2025-12-30
+CH001552,P0001574,Concession,Supplier Managed,Draft,2025-12-16,
+CH001553,P0004564,Concession,Supplier Managed,Implemented,2024-08-30,2024-11-19
+CH001554,P0002160,ECN,Propulsion,Draft,2025-10-07,
+CH001555,P0001894,Concession,Mechanical Design,Rejected,2023-12-02,2024-04-30
+CH001556,P0004899,ECR,Aftermarket,Approved,2025-12-27,
+CH001557,P0000107,ECR,Supplier Managed,Implemented,2026-07-28,2026-06-07
+CH001558,P0000883,ECN,Aftermarket,Approved,2022-07-25,
+CH001559,P0001370,Deviation,Systems,Implemented,2022-01-23,2022-02-06
+CH001560,P0002388,ECR,Supplier Managed,Approved,2023-06-18,
+CH001561,P0001407,ECN,Mechanical Design,Draft,2022-02-06,
+CH001562,P0004611,ECN,Mechanical Design,In Review,2021-08-23,
+CH001563,P0005179,ECN,Systems,Draft,2025-06-06,
+CH001564,P0003757,ECR,Tooling,Rejected,2026-09-25,2026-11-15
+CH001565,P0003430,ECN,Systems,In Review,2026-04-12,
+CH001566,P0001818,ECR,Supplier Managed,Rejected,2022-06-26,2022-08-18
+CH001567,P0001670,ECN,Aftermarket,In Review,2020-12-14,
+CH001568,P0000983,ECN,Structures,In Review,2024-06-09,
+CH001569,P0003189,ECN,Systems,Draft,2020-11-29,
+CH001570,P0003959,Deviation,Tooling,Draft,2023-11-08,
+CH001571,P0000178,Concession,Structures,Implemented,2026-09-27,2026-10-11
+CH001572,P0002054,Concession,Tooling,Rejected,2026-07-24,2026-09-05
+CH001573,P0001390,ECR,Supplier Managed,Rejected,2025-09-09,2025-08-12
+CH001574,P0004800,ECR,Supplier Managed,Implemented,2022-10-12,2023-01-25
+CH001575,P0000384,ECN,Mechanical Design,Approved,2023-10-29,
+CH001576,P0001085,Concession,Aftermarket,Implemented,2022-09-21,2023-03-02
+CH001577,P0001321,Deviation,Systems,Rejected,2022-09-02,2023-01-08
+CH001578,P0004013,Deviation,Structures,In Review,2026-09-18,
+CH001579,P0000429,ECR,Tooling,Implemented,2023-05-08,2023-07-18
+CH001580,P0002185,ECR,Supplier Managed,Implemented,2022-11-28,2023-04-18
+CH001581,P0001625,ECN,Tooling,Implemented,2024-09-04,2024-11-20
+CH001582,P0005102,ECN,Mechanical Design,Implemented,2020-12-03,2021-02-28
+CH001583,P0004248,ECN,Supplier Managed,Approved,2022-06-14,
+CH001584,P0003681,ECR,Propulsion,In Review,2026-10-13,
+CH001585,P0002762,Concession,Systems,Approved,2024-05-13,
+CH001586,P0002233,ECR,Systems,Rejected,2023-10-10,2024-01-05
+CH001587,P0003572,Concession,Mechanical Design,In Review,2022-05-04,
+CH001588,P0003014,ECN,Systems,In Review,2025-06-29,
+CH001589,P0004894,Concession,Systems,Rejected,2021-03-06,2021-03-26
+CH001590,P0005040,Deviation,Structures,Approved,2022-12-22,
+CH001591,P0002063,Deviation,Supplier Managed,Draft,2022-06-11,
+CH001592,P0001193,ECR,Structures,Approved,2022-06-23,
+CH001593,P0004029,ECN,Aftermarket,Implemented,2022-09-07,2023-03-03
+CH001594,P0003700,Concession,Tooling,Rejected,2026-07-18,2026-07-24
+CH001595,P0000987,Concession,Tooling,In Review,2022-02-03,
+CH001596,P0004995,Deviation,Structures,In Review,2025-02-13,
+CH001597,P0001403,ECN,Mechanical Design,Draft,2021-04-15,
+CH001598,P0004580,Concession,Aftermarket,Implemented,2022-08-06,2022-12-03
+CH001599,P0001288,Concession,Tooling,Draft,2024-11-07,
+CH001600,P0004007,ECR,Tooling,Approved,2020-11-02,
+CH001601,P0005185,ECR,Supplier Managed,Implemented,2022-08-11,2022-10-01
+CH001602,P0000481,ECR,Mechanical Design,Rejected,2023-06-05,2023-07-24
+CH001603,P0004814,ECR,Supplier Managed,In Review,2021-03-29,
+CH001604,P0000501,ECR,Mechanical Design,Draft,2021-10-26,
+CH001605,P0000921,ECR,Systems,Rejected,2022-10-06,2022-11-21
+CH001606,P0000861,Deviation,Mechanical Design,Implemented,2026-10-05,2027-02-15
+CH001607,P0003814,ECN,Propulsion,Draft,2024-01-28,
+CH001608,P0000453,ECR,Supplier Managed,Approved,2024-12-07,
+CH001609,P0002305,ECN,Aftermarket,In Review,2025-03-27,
+CH001610,P0003018,ECN,Aftermarket,Approved,2024-10-19,
+CH001611,P0004674,Concession,Aftermarket,Draft,2026-03-24,
+CH001612,P0002479,ECN,Systems,Approved,2021-10-26,
+CH001613,P0004498,ECN,Systems,Approved,2021-05-24,
+CH001614,P0003847,ECR,Tooling,In Review,2026-08-26,
+CH001615,P0002699,Deviation,Structures,Rejected,2025-01-08,2025-05-14
+CH001616,P0001488,Deviation,Supplier Managed,In Review,2025-05-12,
+CH001617,P0003211,Concession,Mechanical Design,Approved,2022-07-04,
+CH001618,P0004908,Deviation,Aftermarket,Implemented,2024-04-26,2024-06-14
+CH001619,P0001506,ECR,Supplier Managed,In Review,2023-10-24,
+CH001620,P0000873,Deviation,Systems,Draft,2021-01-28,
+CH001621,P0000554,Concession,Tooling,Draft,2021-12-01,
+CH001622,P0000212,Concession,Propulsion,Rejected,2021-07-01,2021-10-25
+CH001623,P0002002,ECR,Systems,Approved,2021-04-28,
+CH001624,P0005047,ECN,Structures,Draft,2023-11-18,
+CH001625,P0003040,Deviation,Supplier Managed,Rejected,2021-03-03,2021-03-09
+CH001626,P0001807,Deviation,Propulsion,In Review,2022-10-12,
+CH001627,P0002917,ECR,Aftermarket,Draft,2023-12-31,
+CH001628,P0002051,ECN,Tooling,In Review,2022-03-13,
+CH001629,P0002968,ECR,Tooling,Draft,2026-08-01,
+CH001630,P0004647,ECR,Structures,Implemented,2023-12-14,2024-02-16
+CH001631,P0004741,ECR,Tooling,Implemented,2023-04-29,2023-09-27
+CH001632,P0004051,ECN,Aftermarket,Approved,2024-09-10,
+CH001633,P0002476,ECR,Aftermarket,Implemented,2026-03-27,2026-08-17
+CH001634,P0004549,ECN,Propulsion,Implemented,2021-12-19,2022-01-23
+CH001635,P0003227,ECN,Structures,In Review,2022-02-09,
+CH001636,P0000971,ECR,Propulsion,Approved,2023-06-11,
+CH001637,P0004628,ECN,Systems,Rejected,2023-01-19,2023-04-13
+CH001638,P0002182,ECR,Structures,Approved,2024-11-10,
+CH001639,P0005177,Concession,Systems,Approved,2024-05-28,
+CH001640,P0004537,ECN,Propulsion,Draft,2022-05-22,
+CH001641,P0003201,ECN,Propulsion,Draft,2021-01-18,
+CH001642,P0000352,Deviation,Structures,Draft,2025-07-18,
+CH001643,P0004001,Concession,Aftermarket,Implemented,2026-02-10,2026-02-22
+CH001644,P0004611,Concession,Tooling,Rejected,2026-07-10,2026-11-24
+CH001645,P0004083,Deviation,Systems,Rejected,2022-08-01,2022-11-17
+CH001646,P0005069,Deviation,Supplier Managed,In Review,2023-06-01,
+CH001647,P0004556,ECR,Structures,Approved,2022-07-24,
+CH001648,P0002918,ECN,Structures,In Review,2025-04-14,
+CH001649,P0002027,ECR,Supplier Managed,Rejected,2024-06-04,2024-06-14
+CH001650,P0004949,Deviation,Supplier Managed,In Review,2024-06-27,
+CH001651,P0001594,ECR,Systems,Draft,2023-03-26,
+CH001652,P0000547,Deviation,Tooling,In Review,2024-10-23,
+CH001653,P0003963,Deviation,Mechanical Design,Approved,2026-06-30,
+CH001654,P0001924,ECR,Aftermarket,Approved,2025-11-12,
+CH001655,P0000644,Concession,Supplier Managed,Implemented,2022-11-24,2022-12-29
+CH001656,P0002446,Deviation,Propulsion,Draft,2023-07-31,
+CH001657,P0003011,Deviation,Systems,Implemented,2022-11-06,2023-04-24
+CH001658,P0003476,Concession,Mechanical Design,Rejected,2024-06-12,2024-11-30
+CH001659,P0002159,Concession,Tooling,Rejected,2022-02-18,2022-08-15
+CH001660,P0003472,ECR,Aftermarket,Draft,2021-12-21,
+CH001661,P0003970,Deviation,Tooling,Draft,2022-02-07,
+CH001662,P0002905,Deviation,Tooling,In Review,2024-08-05,
+CH001663,P0002703,ECR,Aftermarket,Draft,2025-05-08,
+CH001664,P0000910,ECR,Mechanical Design,Approved,2024-11-13,
+CH001665,P0000123,Concession,Tooling,In Review,2021-01-06,
+CH001666,P0002422,Concession,Mechanical Design,Approved,2022-02-12,
+CH001667,P0003793,Concession,Mechanical Design,Approved,2021-07-01,
+CH001668,P0001686,ECR,Mechanical Design,Implemented,2023-08-07,2023-09-05
+CH001669,P0003736,ECR,Mechanical Design,In Review,2024-04-13,
+CH001670,P0003431,Concession,Propulsion,In Review,2021-07-03,
+CH001671,P0001245,Concession,Aftermarket,Implemented,2020-12-02,2021-01-27
+CH001672,P0002879,Deviation,Tooling,Rejected,2026-09-10,2026-09-29
+CH001673,P0003231,Deviation,Structures,Implemented,2024-08-04,2024-08-22
+CH001674,P0001456,Deviation,Systems,Approved,2022-01-09,
+CH001675,P0000483,ECR,Mechanical Design,Approved,2026-02-18,
+CH001676,P0002759,ECN,Tooling,Draft,2025-01-14,
+CH001677,P0002285,ECN,Supplier Managed,Approved,2025-03-16,
+CH001678,P0001812,ECR,Mechanical Design,Implemented,2021-07-23,2021-09-06
+CH001679,P0000243,Deviation,Tooling,Draft,2023-08-08,
+CH001680,P0000354,ECN,Systems,In Review,2024-10-02,
+CH001681,P0005069,Concession,Aftermarket,Draft,2024-04-28,
+CH001682,P0004489,ECN,Mechanical Design,Rejected,2026-10-25,2027-04-21
+CH001683,P0004853,Concession,Systems,Approved,2021-10-19,
+CH001684,P0003341,Deviation,Supplier Managed,Implemented,2026-07-11,2026-11-17
+CH001685,P0000540,ECN,Mechanical Design,Approved,2023-10-17,
+CH001686,P0003131,ECN,Supplier Managed,Implemented,2021-07-26,2021-07-22
+CH001687,P0004094,Deviation,Systems,Draft,2022-06-08,
+CH001688,P0001611,ECN,Mechanical Design,Draft,2025-06-12,
+CH001689,P0004675,ECR,Systems,In Review,2020-11-23,
+CH001690,P0002536,ECN,Structures,Approved,2022-02-02,
+CH001691,P0004153,ECN,Supplier Managed,In Review,2024-04-23,
+CH001692,P0001167,ECR,Mechanical Design,Draft,2021-12-16,
+CH001693,P0000109,ECR,Systems,Rejected,2024-07-30,2024-12-06
+CH001694,P0001244,ECN,Propulsion,Approved,2023-09-30,
+CH001695,P0002614,Concession,Propulsion,In Review,2020-11-24,
+CH001696,P0001382,ECR,Propulsion,In Review,2023-06-16,
+CH001697,P0002045,ECN,Mechanical Design,In Review,2021-12-23,
+CH001698,P0002509,ECR,Aftermarket,Approved,2024-06-11,
+CH001699,P0001879,Concession,Tooling,Approved,2023-01-03,
+CH001700,P0004693,ECR,Structures,Rejected,2026-07-18,2026-11-04
+CH001701,P0000227,Concession,Supplier Managed,In Review,2021-06-09,
+CH001702,P0003249,ECN,Mechanical Design,Approved,2025-05-30,
+CH001703,P0002029,Concession,Structures,Rejected,2021-02-13,2021-02-25
+CH001704,P0003150,ECR,Systems,Implemented,2024-07-14,2024-11-09
+CH001705,P0004559,ECN,Systems,In Review,2023-10-20,
+CH001706,P0002214,ECN,Supplier Managed,Approved,2022-12-25,
+CH001707,P0003889,ECR,Structures,Approved,2021-01-19,
+CH001708,P0000094,Deviation,Mechanical Design,Implemented,2022-09-30,2022-11-06
+CH001709,P0002336,ECR,Structures,Rejected,2022-12-25,2023-03-29
+CH001710,P0000729,ECR,Systems,Implemented,2022-01-23,2022-02-25
+CH001711,P0001206,Deviation,Supplier Managed,Approved,2026-09-27,
+CH001712,P0004894,Concession,Supplier Managed,Draft,2025-06-07,
+CH001713,P0001103,Concession,Tooling,In Review,2022-10-05,
+CH001714,P0003011,ECR,Supplier Managed,Implemented,2026-10-17,2026-11-25
+CH001715,P0001169,Concession,Propulsion,Implemented,2022-12-24,2022-11-04
+CH001716,P0002962,Deviation,Aftermarket,Approved,2020-11-12,
+CH001717,P0004239,ECN,Mechanical Design,Rejected,2020-12-10,2021-02-23
+CH001718,P0002179,Deviation,Propulsion,In Review,2020-12-26,
+CH001719,P0000471,Concession,Structures,In Review,2023-10-23,
+CH001720,P0000388,Concession,Supplier Managed,In Review,2026-06-13,
+CH001721,P0001189,Concession,Aftermarket,Rejected,2025-05-14,2025-06-05
+CH001722,P0000003,ECR,Tooling,Rejected,2026-06-09,2026-11-17
+CH001723,P0003322,Deviation,Mechanical Design,In Review,2022-10-31,
+CH001724,P0004968,Deviation,Structures,Implemented,2021-05-22,2021-07-07
+CH001725,P0003034,ECN,Mechanical Design,Draft,2022-06-01,
+CH001726,P0003457,Deviation,Propulsion,Draft,2023-01-27,
+CH001727,P0004587,Concession,Structures,In Review,2021-12-18,
+CH001728,P0002365,ECR,Tooling,In Review,2023-02-22,
+CH001729,P0001609,Concession,Supplier Managed,Draft,2021-01-12,
+CH001730,P0004615,Deviation,Propulsion,Approved,2021-06-13,
+CH001731,P0000984,Deviation,Systems,In Review,2023-09-20,
+CH001732,P0004393,ECN,Propulsion,Approved,2024-08-04,
+CH001733,P0004560,ECR,Structures,Rejected,2021-12-06,2022-05-08
+CH001734,P0004782,ECN,Systems,Implemented,2024-05-26,2024-09-06
+CH001735,P0002919,Deviation,Supplier Managed,In Review,2025-08-05,
+CH001736,P0003942,ECN,Mechanical Design,Draft,2026-02-23,
+CH001737,P0004815,Deviation,Aftermarket,Implemented,2026-02-01,2026-07-06
+CH001738,P0001851,ECR,Structures,Approved,2021-06-13,
+CH001739,P0000709,Concession,Structures,In Review,2023-10-28,
+CH001740,P0005078,Deviation,Aftermarket,Implemented,2021-06-13,2021-08-18
+CH001741,P0000344,Concession,Structures,Implemented,2021-05-19,2021-05-22
+CH001742,P0001963,Concession,Systems,Implemented,2021-07-05,2021-09-08
+CH001743,P0000202,ECR,Supplier Managed,Draft,2024-06-24,
+CH001744,P0000734,Concession,Tooling,In Review,2023-01-23,
+CH001745,P0004770,Deviation,Aftermarket,In Review,2026-07-30,
+CH001746,P0003143,ECN,Supplier Managed,Approved,2021-07-22,
+CH001747,P0001896,ECR,Tooling,Implemented,2025-03-22,2025-07-02
+CH001748,P0004773,ECR,Aftermarket,Draft,2021-05-18,
+CH001749,P0005145,ECN,Supplier Managed,Implemented,2020-10-28,2020-12-29
+CH001750,P0005123,Deviation,Mechanical Design,Rejected,2021-11-17,2022-04-20
