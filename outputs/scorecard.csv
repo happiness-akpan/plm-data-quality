@@ -1,0 +1,9 @@
+check,planted,found,caught,precision,recall,result
+01_orphaned_bom_lines,51,51,51,100%,100%,PASS
+02_released_missing_material,94,94,94,100%,100%,PASS
+03_invalid_uom,104,104,104,100%,100%,PASS
+04_invalid_bom_quantity,78,78,78,100%,100%,PASS
+05_change_closed_before_raised,25,25,25,100%,100%,PASS
+06_obsolete_in_active_bom,40,40,40,100%,100%,PASS
+07_circular_bom_references,6,6,6,100%,100%,PASS
+08_near_duplicate_parts,200,200,200,100%,100%,PASS
