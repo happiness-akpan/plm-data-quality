@@ -196,7 +196,7 @@ def generate(n_parts: int, seed: int) -> tuple[pd.DataFrame, pd.DataFrame, pd.Da
 
     for parent in assemblies:
         for fn, child in enumerate(rng.sample(active_ids, rng.randint(2, 9)), start=1):
-            if child == parent or (parent, child) in seen_edges:
+            if child == parent or (parent, child) in seen_edges or (child, parent) in seen_edges:
                 continue
             seen_edges.add((parent, child))
             bom.append({
